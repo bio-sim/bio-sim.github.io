@@ -11,15 +11,48 @@ body {
     /* background: #38761d url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png) repeat-x scroll 0 -400px; */
 }
 
+
+h1.sidebar-heading {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.sidebar-heading {
+    background: #38761d;
+    border-radius: 2px 2px 0 0;
+}
+
 .sidebar-heading>a {
     font: normal normal 60px Dancing Script;
     text-transform: none;
     text-shadow: 1px 2px 3px rgba(0, 0, 0, .2);
-    /* color: #ffffff; */
+    color: #ffffff;
+    margin-left: 20px;
 }
 
 .sidebar-p {
     font-family: "Dancing Script";
     font-size: 30px;
-    /* color: #ffffff; */
+    color: #ffffff;
+    background: #38761d;
+    padding-left: 20px;
+    border-radius: 0 0 2px 2px;
+}
+
+.sidebar-menu>li>span {
+    color: #555555;
+}
+
+.sidebar-menu>li.sidebar-sub-menu.active a {
+    color: #555555;
+}
+.sidebar-menu>li.sidebar-sub-menu.active:before {
+    color: #555555;
+}
+.sidebar-menu>li.sidebar-sub-menu:hover a {
+    text-decoration: none;
+    color: #555555;
+}
+.sidebar-menu>li.sidebar-sub-menu:hover:before {
+    color: #555555;
 }
