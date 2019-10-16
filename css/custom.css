@@ -1,0 +1,25 @@
+body {
+    /* background: #cc6611 url(//images.pexels.com/photos/131634/pexels-photo-131634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) repeat scroll top left; */
+    /* background: #cc6611 url() repeat scroll top left; */
+    /* background: #fafafa url(../img/bg/1.png) no-repeat scroll top left !important; */
+    background-color: #fcfcfc;
+}
+
+.sidebar-content-desc {
+    /* padding: 10px 10px 5px 10px; */
+    /* border-radius: 80px; */
+    /* background: #38761d url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png) repeat-x scroll 0 -400px; */
+}
+
+.sidebar-heading>a {
+    font: normal normal 60px Dancing Script;
+    text-transform: none;
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, .2);
+    /* color: #ffffff; */
+}
+
+.sidebar-p {
+    font-family: "Dancing Script";
+    font-size: 30px;
+    /* color: #ffffff; */
+}
