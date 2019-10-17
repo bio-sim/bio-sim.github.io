@@ -1,2 +1,44 @@
-- soaps
-- cosmetics
+categories:
+  - name: soaps
+  - subcategories:
+    - all
+
+  - name: cosmetics
+  - subcategories:
+    -
+
+products:
+  - id:
+    title:
+
+
+pentru fiecare produs:
+- un titlu
+- cel puțin o imagine (cu cât sunt mai multe, cu atât mai bine)
+- o descriere scurtă (max 100 de cuvinte)
+- o descriere detaliată
+- lista de ingrediente
+
+
+Categorii:
+
+- Săpuniri
+- Cosmetice
+    - Apă micelară (demachiant)
+    - Balsam de păr
+    - Balsam de buze
+    - Balsam reparator
+    - Cleanser purifiant
+    - Cremă de corp
+    - Cremă de față
+    - Cremă de plajă cu FPS
+    - Deodorant (antiperspirant)
+    - Emulsie după expunerea la soare
+    - Lapte de corp
+    - Loțiune după expunerea la soare
+    - Loțiune anti-insecte
+    - Pastă de dinți
+    - Pudră de dinți
+    - Set facial
+    - Șampon
+    - Ulei de plajă cu FPS
