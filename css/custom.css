@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Dancing Script;
+    src: url('fonts/DancingScript-Regular.otf');
+}
+
 body {
     /* background: #cc6611 url(//images.pexels.com/photos/131634/pexels-photo-131634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) repeat scroll top left; */
     /* background: #cc6611 url() repeat scroll top left; */
