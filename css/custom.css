@@ -9,9 +9,11 @@ body {
     margin-bottom: 0;
 }
 
-.sidebar-heading>a {
+.sidebar-heading>a,
+.sidebar-heading>a:hover {
     font: normal normal 60px Dancing Script;
     text-transform: none;
+    border-bottom: 0;
     text-shadow: 1px 2px 3px rgba(0, 0, 0, .2);
     color: #ffffff;
     margin-left: 20px;
@@ -25,6 +27,13 @@ body {
     font-size: 30px;
     padding-left: 20px;
     border-radius: 0 0 4px 4px;
+}
+
+.sidebar-px {
+    /* color: #ffffff; */
+    color: #312525;
+    font-family: "Dancing Script";
+    font-size: 30px;
 }
 
 .sidebar-menu>li>span {
