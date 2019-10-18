@@ -3,56 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://bio-sim.ro/portfolio/work2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/portfolio/work3/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/portfolio/work4/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/portfolio/work5/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/portfolio/work6/</loc>
-    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/portfolio/work7/</loc>
-    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/portfolio/work8/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/portfolio/work9/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/portfolio/work10/</loc>
-    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/portfolio/work11/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://bio-sim.ro/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
@@ -63,13 +13,48 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/portfolio/work1/</loc>
+    <loc>http://bio-sim.ro/products/soaps/s%C4%83pun_spa_cu_sare_de_mare_%C8%99i_c%C4%83rbune_activ/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/soaps/s%C4%83pun_cu_lapte_de_capr%C4%83_%C8%99i_argil%C4%83_ro%C8%99ie/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/soaps/s%C4%83pun_cu_lapte_miere_ov%C4%83z_%C8%99i_germeni_de_gr%C3%A2u/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/soaps/s%C4%83pun_hidratant_pentru_piele_sensibil%C4%83_cu_lapte_de_capr%C4%83_%C8%99i_pudr%C4%83_de_roib%C4%83/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/soaps/s%C4%83pun_luxuriant_cu_c%C4%83tin%C4%83_morcov_%C8%99i_g%C4%83lbenele/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/soaps/s%C4%83pun_pentru_piele_sensibil%C4%83_pentru_copii/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/soaps/s%C4%83pun_tonifiant_%C8%99i_hidratant_cu_argil%C4%83_ro%C8%99ie_%C8%99i_unt_de_shea/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/soaps/s%C4%83pun_alep/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://bio-sim.ro/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -79,8 +64,8 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/portfolio/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>http://bio-sim.ro/products/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
