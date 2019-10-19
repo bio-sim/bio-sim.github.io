@@ -45,6 +45,9 @@ body {
     text-shadow: 1px 2px 3px rgba(0, 0, 0, .2);
     color: #ffffff;
     margin-left: 10px;
+
+    background: linear-gradient( to left, red 0, red 33.3%, orange 33.3%, orange 66.6%, blue 66.6%, blue ) bottom no-repeat;
+    background-size: 100% 3px;
 }
 
 .sidebar-p {
@@ -54,12 +57,6 @@ body {
     padding-left: 10px;
     border-radius: 0 0 3px 3px;
     margin-bottom: 56px;
-}
-
-.sidebar-px {
-    font-family: "Dancing Script";
-    font-size: 34px;
-    margin: 0;
 }
 
 .sidebar-menu>li>span {
