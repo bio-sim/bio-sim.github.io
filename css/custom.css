@@ -1,10 +1,8 @@
 body {
-    /* background-image: url(/img/bg/cloud-bottom.webp),url(/img/bg/grass.png),linear-gradient(#0075ff, #3491ff, #75b4ff); */
-    background-image: url(/img/bg/grass.png),linear-gradient(#0075ff, #5fa8ff,  #3491ff, #bad8fb);
-    /* background-position: top left, bottom left; */
-    background-position: bottom left;
-    background-repeat: repeat-x;
+    /* background: linear-gradient(to bottom, #0075ff, #5fa8ff,  #3491ff, #bad8fb); */
+    background: linear-gradient(to bottom, #0075ff, #5fa8ff, #bad8fb);
     background-attachment: fixed;
+    height: 100%;
 }
 
 .bio-sim-single-page {
@@ -171,6 +169,18 @@ p.social {
     50%   { transform: scaleX(-1) translate(-110vw, 300vh); }
     50.1% { transform: scaleX( 1) translate( 110vw,  20vh); }
     100%  { transform: scaleX( 1) translate( -70px,  20vh); }
+}
+
+.grass {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 678px;
+    background-image: url(/img/bg/grass.png);
+    background-position: bottom left;
+    background-repeat: repeat-x;
+    z-index: -2;
 }
 
 .flower-1 {
@@ -385,8 +395,6 @@ p.social {
     bottom: 45px;
     left: 85%;
 }
-
-
 
 
 .butterfly {
