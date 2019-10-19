@@ -1,5 +1,31 @@
 body {
+    /* background: #fcfcfc url(https://agusmakmun.github.io/static/img/subtle_dots.png); */
     background-color: #fcfcfc;
+    /* background-image: url(https://www.w3schools.com/Css/img_flwr.gif), url(https://cdn.pixabay.com/photo/2018/02/19/20/38/floral-3166204_1280.png); */
+    /* background-image: url(https://www.w3schools.com/Css/img_flwr.gif), url(https://cdn.pixabay.com/photo/2017/11/29/09/55/floral-2985648_1280.jpg); */
+    /* background-image: url(https://www.w3schools.com/Css/img_flwr.gif), url(https://png.pngtree.com/png-clipart/20190515/original/pngtree-watercolor-floral-seamless-pattern-with-beautiful-blue-flowers-png-image_3669711.jpg); */
+    /* background-image: url(https://www.w3schools.com/Css/img_flwr.gif), url(https://previews.123rf.com/images/myslewis/myslewis0706/myslewis070600013/1078719-fresh-tiny-flower-pattern-on-white-background.jpg); */
+    /* background-image: url(https://www.w3schools.com/Css/img_flwr.gif), url(/img/bg/1.png); */
+    /* background-position: right bottom, top left; */
+    /* background-repeat: no-repeat, repeat; */
+    /* background-attachment: fixed; */
+
+    /* background-image: url(https://www.w3schools.com/Css/img_flwr.gif); */
+    /* background-image: url(/img/bg/2.png); */
+    /* background-position: right bottom; */
+    /* background-repeat: no-repeat; */
+    /* background-attachment: fixed; */
+    /* background-size: 300px; */
+
+    background-image: url(/img/bg/grass.png);
+    background-position: bottom;
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    /* /* background-size: 300px; */
+}
+
+.sidebar-offcanvas {
+    background-color: rgba(255, 255, 255, 0.8);
 }
 
 .sidebar-menu {
@@ -24,9 +50,8 @@ body {
 }
 
 .sidebar-p {
-    background: #38761d;
+    background: #38761d; /*#312525*/
     color: #ffffff;
-    /* color: #312525; */
     font-family: "Dancing Script";
     font-size: 28px;
     padding-left: 20px;
@@ -35,7 +60,8 @@ body {
 
 .sidebar-px {
     /* color: #ffffff; */
-    color: #312525;
+    color: #3f8800;
+    /* color: #312525; */
     font-family: "Dancing Script";
     font-size: 34px;
     margin: 0;
@@ -69,4 +95,10 @@ p.social {
 
 .content-column-content p, .content-column-content li {
     color: #555555;
+}
+
+.box-masonry {
+    border-radius: 3px;
+    /* border: 1px solid rgba(0,0,0,.125); */
+    box-shadow: 0 4px 10px 1px rgba(0, 0, 0, 0.2);
 }
