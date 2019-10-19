@@ -7,6 +7,18 @@ body {
     background-attachment: fixed;
 }
 
+.bio-sim-single-page {
+    background: rgba(255, 255, 255, 0.9);
+}
+
+.bio-sim-single-page h2,
+.bio-sim-single-page h4,
+.bio-sim-single-page .content-column-content p,
+.bio-sim-single-page .content-column-content li,
+.bio-sim-single-page .content-column-content ul li:before {
+    color:#484848;
+}
+
 .sidebar-menu {
     margin-bottom: 20px;
 }
@@ -15,6 +27,14 @@ body {
     border-radius: 3px 3px 0 0;
     padding-bottom: 0;
     margin-bottom: 0;
+}
+
+.small-navbar-heading>a {
+    display: none;
+    font: normal normal 17px Dancing Script;
+    text-transform: none;
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, .2);
+    color: #ffffff;
 }
 
 .sidebar-heading>a,
@@ -92,6 +112,10 @@ p.social {
     color: #fefefe;
 }
 
+.img-rounded {
+    border-radius: 3px;
+}
+
 .box-masonry {
     border-radius: 3px;
     box-shadow: 0 4px 10px 1px rgb(50, 121, 209);
@@ -113,8 +137,8 @@ p.social {
     background-image: url(/img/bg/bird.webp);
     position: fixed;
     cursor: inherit;
-    /* z-index: -1; */
-    z-index: 1;
+    z-index: -1;
+    /* z-index: 1; */
 }
 
 .bird1-static { bottom:  275px; left:  340px; transform: scaleX(-1); background-position:   0px   0px; }
