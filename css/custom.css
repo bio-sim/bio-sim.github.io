@@ -1,31 +1,10 @@
 body {
-    /* background: #fcfcfc url(https://agusmakmun.github.io/static/img/subtle_dots.png); */
-    background-color: #fcfcfc;
-    /* background-image: url(https://www.w3schools.com/Css/img_flwr.gif), url(https://cdn.pixabay.com/photo/2018/02/19/20/38/floral-3166204_1280.png); */
-    /* background-image: url(https://www.w3schools.com/Css/img_flwr.gif), url(https://cdn.pixabay.com/photo/2017/11/29/09/55/floral-2985648_1280.jpg); */
-    /* background-image: url(https://www.w3schools.com/Css/img_flwr.gif), url(https://png.pngtree.com/png-clipart/20190515/original/pngtree-watercolor-floral-seamless-pattern-with-beautiful-blue-flowers-png-image_3669711.jpg); */
-    /* background-image: url(https://www.w3schools.com/Css/img_flwr.gif), url(https://previews.123rf.com/images/myslewis/myslewis0706/myslewis070600013/1078719-fresh-tiny-flower-pattern-on-white-background.jpg); */
-    /* background-image: url(https://www.w3schools.com/Css/img_flwr.gif), url(/img/bg/1.png); */
-    /* background-position: right bottom, top left; */
-    /* background-repeat: no-repeat, repeat; */
-    /* background-attachment: fixed; */
-
-    /* background-image: url(https://www.w3schools.com/Css/img_flwr.gif); */
-    /* background-image: url(/img/bg/2.png); */
-    /* background-position: right bottom; */
-    /* background-repeat: no-repeat; */
-    /* background-attachment: fixed; */
-    /* background-size: 300px; */
-
-    background-image: url(/img/bg/grass.png);
-    background-position: bottom;
+    /* background-image: url(/img/bg/cloud-bottom.webp),url(/img/bg/grass.png),linear-gradient(#0075ff, #3491ff, #75b4ff); */
+    background-image: url(/img/bg/grass.png),linear-gradient(#0075ff, #5fa8ff,  #3491ff, #bad8fb);
+    /* background-position: top left, bottom left; */
+    background-position: bottom left;
     background-repeat: repeat-x;
     background-attachment: fixed;
-    /* /* background-size: 300px; */
-}
-
-.sidebar-offcanvas {
-    background-color: rgba(255, 255, 255, 0.8);
 }
 
 .sidebar-menu {
@@ -33,7 +12,6 @@ body {
 }
 
 .sidebar-heading {
-    background: #38761d;
     border-radius: 3px 3px 0 0;
     padding-bottom: 0;
     margin-bottom: 0;
@@ -41,48 +19,65 @@ body {
 
 .sidebar-heading>a,
 .sidebar-heading>a:hover {
-    font: normal normal 60px Dancing Script;
+    font: normal normal 70px Dancing Script;
     text-transform: none;
     border-bottom: 0;
     text-shadow: 1px 2px 3px rgba(0, 0, 0, .2);
     color: #ffffff;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 .sidebar-p {
-    background: #38761d; /*#312525*/
     color: #ffffff;
     font-family: "Dancing Script";
-    font-size: 28px;
-    padding-left: 20px;
+    font-size: 21px;
+    padding-left: 10px;
     border-radius: 0 0 3px 3px;
+    margin-bottom: 56px;
 }
 
 .sidebar-px {
-    /* color: #ffffff; */
-    color: #3f8800;
-    /* color: #312525; */
     font-family: "Dancing Script";
     font-size: 34px;
     margin: 0;
 }
 
 .sidebar-menu>li>span {
-    color: #555555;
+    color: #fefefe;
+}
+
+p.social a {
+    border-color: #fefefe;
+}
+
+.copyright p.credit a,
+.copyright,
+p.social a,
+.sidebar-menu li:before,
+.sidebar-menu>li a {
+    color: #fefefe;
+}
+
+.sidebar-menu>li {
+    line-height: 1.5;
+}
+
+.sidebar-menu>li.sidebar-sub-menu>ul {
+    margin-top: 5px;
 }
 
 .sidebar-menu>li.sidebar-sub-menu.active a {
-    color: #555555;
+    color: #fefefe;
 }
 .sidebar-menu>li.sidebar-sub-menu.active:before {
-    color: #555555;
+    color: #fefefe;
 }
 .sidebar-menu>li.sidebar-sub-menu:hover a {
     text-decoration: none;
-    color: #555555;
+    color: #fefefe;
 }
 .sidebar-menu>li.sidebar-sub-menu:hover:before {
-    color: #555555;
+    color: #fefefe;
 }
 
 p.social {
@@ -94,11 +89,334 @@ p.social {
 }
 
 .content-column-content p, .content-column-content li {
-    color: #555555;
+    color: #fefefe;
 }
 
 .box-masonry {
     border-radius: 3px;
-    /* border: 1px solid rgba(0,0,0,.125); */
-    box-shadow: 0 4px 10px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 10px 1px rgb(50, 121, 209);
+}
+
+.box-masonry .box-masonry-image {
+    background: #fefefe;
+}
+
+.box-masonry h4 a {
+    color: #484848;
+}
+
+.bird {
+    width: 30px;
+    height: 30px;
+    display: block;
+    overflow: hidden;
+    background-image: url(/img/bg/bird.webp);
+    position: fixed;
+    cursor: inherit;
+    /* z-index: -1; */
+    z-index: 1;
+}
+
+.bird1-static { bottom:  275px; left:  340px; transform: scaleX(-1); background-position:   0px   0px; }
+.bird2-static { bottom:  250px; left:  250px; transform: scaleX(-1); background-position: -60px   0px; }
+.bird3-static { bottom:  300px; left:  150px; transform: scaleX(-1); background-position: -30px -30px; }
+.bird4-static { bottom:  320px; left:  100px; transform: scaleX(-1); background-position: -30px   0px; }
+
+.bird1 { top:   0px; left:   0px; animation: flap step-end infinite, fly 20s linear infinite; animation-duration: 0.33s, 14s; }
+.bird2 { top:  50px; left:  50px; animation: flap step-end infinite, fly 20s linear infinite; animation-duration: 0.66s, 24s; }
+.bird3 { top: 100px; left: 100px; animation: flap step-end infinite, fly 20s linear infinite; animation-duration:    1s, 44s; }
+
+@keyframes fall {
+    0%   { transform: rotate(  0deg); opacity: 1;             }
+    100% { transform: rotate(600deg); opacity: 1; top: 110vh; }
+}
+
+@keyframes flap {
+      0.0% { background-position:   0px   0px; }
+     12.5% { background-position: -30px   0px; }
+     25.0% { background-position: -60px   0px; }
+     37.5% { background-position:   0px -30px; }
+     50.0% { background-position: -30px -30px; }
+     62.5% { background-position: -60px -30px; }
+     75.0% { background-position:   0px -60px; }
+     87.5% { background-position: -30px -60px; }
+    100.0% { background-position: -60px -60px; }
+}
+
+@keyframes fly {
+    0%    { transform: scaleX(-1) translate(  10vw,  30vh); }
+    15%   { transform: scaleX(-1) translate( -30vw,  40vh); }
+    49%   { transform: scaleX(-1) translate(-110vw,  20vh); }
+    50%   { transform: scaleX(-1) translate(-110vw, 300vh); }
+    50.1% { transform: scaleX( 1) translate( 110vw,  20vh); }
+    100%  { transform: scaleX( 1) translate( -70px,  20vh); }
+}
+
+.flower-1 {
+    width: 100px;
+    height: 65px;
+    display: block;
+    overflow: hidden;
+    background-image: url(/img/bg/flower-1.png);
+    position: fixed;
+    cursor: inherit;
+    z-index: -1;
+    bottom: 0;
+    left: 20%;
+    background-size: 100px;
+    background-repeat: no-repeat;
+}
+
+
+
+.flower-2 {
+    width: 256px;
+    display: block;
+    overflow: hidden;
+    background-image: url(/img/bg/flower-2.png);
+    position: fixed;
+    cursor: inherit;
+    z-index: -1;
+    background-repeat: no-repeat;
+}
+
+.flower-2-1 {
+    height: 35px;
+    background-size: 35px;
+    bottom: 55px;
+    left: 1%;
+}
+
+.flower-2-2 {
+    height: 45px;
+    background-size: 45px;
+    bottom: 25px;
+    left: 10%;
+}
+
+.flower-2-3 {
+    height: 69px;
+    background-size: 69px;
+    bottom: 45px;
+    left: 25%;
+}
+
+.flower-2-4 {
+    height: 39px;
+    background-size: 39px;
+    bottom: 70px;
+    left: 50%;
+}
+
+.flower-2-5 {
+    height: 50px;
+    background-size: 50px;
+    bottom: 40px;
+    left: 70%;
+}
+
+.flower-2-6 {
+    height: 29px;
+    background-size: 29px;
+    bottom: 20px;
+    left: 90%;
+}
+
+
+
+.flower-3 {
+    width: 256px;
+    display: block;
+    overflow: hidden;
+    background-image: url(/img/bg/flower-3.png);
+    position: fixed;
+    cursor: inherit;
+    z-index: -1;
+    background-repeat: no-repeat;
+}
+
+
+.flower-3-1 {
+    height: 33px;
+    background-size: 33px;
+    bottom: 20px;
+    left: 13%;
+}
+.flower-3-2 {
+    height: 26px;
+    background-size: 26px;
+    bottom: 20px;
+    left: 35%;
+}
+.flower-3-3 {
+    height: 44px;
+    background-size: 44px;
+    bottom: 10px;
+    left: 54%;
+}
+.flower-3-4 {
+    height: 29px;
+    background-size: 29px;
+    bottom: 80px;
+    left: 83%;
+}
+.flower-3-5 {
+    height: 59px;
+    background-size: 59px;
+    bottom: 60px;
+    left: 87%;
+}
+.flower-3-6 {
+    height: 39px;
+    background-size: 39px;
+    bottom: 5px;
+    left: 98%;
+}
+
+
+
+.flower-4 {
+    width: 128px;
+    display: block;
+    overflow: hidden;
+    background-image: url(/img/bg/flower-4.png);
+    position: fixed;
+    cursor: inherit;
+    z-index: -1;
+    background-repeat: no-repeat;
+}
+
+.flower-4-1 {
+    height: 40px;
+    background-size: 40px;
+    bottom: 5px;
+    left: 5%;
+}
+
+.flower-4-2 {
+    height: 20px;
+    background-size: 20px;
+    bottom: 45px;
+    left: 18%;
+}
+
+.flower-4-3 {
+    height: 32px;
+    background-size: 32px;
+    bottom: 16px;
+    left: 44%;
+}
+
+.flower-4-4 {
+    height: 50px;
+    background-size: 50px;
+    bottom: 36px;
+    left: 64%;
+}
+
+.flower-4-5 {
+    height: 22px;
+    background-size: 22px;
+    bottom: 1px;
+    left: 76%;
+}
+
+.flower-4-6 {
+    height: 40px;
+    background-size: 40px;
+    bottom: 40px;
+    left: 95%;
+}
+
+
+
+
+.ladybug {
+    width: 256px;
+    display: block;
+    overflow: hidden;
+    background-image: url(/img/bg/ladybug.png);
+    position: fixed;
+    cursor: inherit;
+    z-index: -1;
+    background-repeat: no-repeat;
+}
+
+.ladybug-1 {
+    height: 30px;
+    background-size: 30px;
+    bottom: 5px;
+    left: 7%;
+}
+
+.ladybug-2 {
+    transform: scaleX(-1);
+    height: 25px;
+    background-size: 25px;
+    bottom: 45px;
+    left: 27%;
+}
+
+.ladybug-3 {
+    transform: scaleX(-1);
+    height: 37px;
+    background-size: 37px;
+    bottom: 45px;
+    left: 85%;
+}
+
+
+
+
+.butterfly {
+    display: block;
+    overflow: hidden;
+    background-image: url(/img/bg/butterfly.png);
+    position: fixed;
+    cursor: inherit;
+    z-index: -1;
+    background-repeat: no-repeat;
+}
+
+.butterfly-1 {
+    transform: scaleX(-1);
+    width: 30px;
+    height: 30px;
+    background-size: 30px;
+    bottom: 150px;
+    left: 7%;
+}
+
+.butterfly-2 {
+    width: 40px;
+    height: 40px;
+    background-size: 40px;
+    bottom: 75px;
+    left: 31%;
+}
+
+.butterfly-3 {
+    width: 40px;
+    height: 40px;
+    background-size: 40px;
+    bottom: 175px;
+    left: 20%;
+}
+
+.butterfly-4 {
+    width: 60px;
+    height: 60px;
+    transform: scaleX(-1);
+    background-size: 60px;
+    bottom: 75px;
+    left: 61%;
+}
+
+.butterfly-5 {
+    width: 35px;
+    height: 35px;
+    transform: scaleX(-1);
+    background-size: 35px;
+    bottom: 175px;
+    left: 96%;
 }
