@@ -109,6 +109,11 @@ p.social a {
 .content-column {
     padding-top: 40px;
     padding-bottom: 300px;
+    overflow: hidden;
+}
+
+.content-column .grid {
+    overflow: hidden;
 }
 
 .content-column-content p,
