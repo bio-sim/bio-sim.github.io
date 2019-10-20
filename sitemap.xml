@@ -53,6 +53,15 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/cosmetics/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/soaps/</loc>
+    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/argila_rosie/</loc>
     <lastmod>2016-11-05T10:00:00+05:30</lastmod>
     <priority>0</priority>
@@ -107,7 +116,6 @@
   
   <url>
     <loc>http://bio-sim.ro/products/</loc>
-    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
