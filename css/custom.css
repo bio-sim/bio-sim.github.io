@@ -15,6 +15,7 @@ body {
 .bio-sim-single-page h2,
 .bio-sim-single-page h3,
 .bio-sim-single-page h4,
+.bio-sim-single-page .content-column-content a,
 .bio-sim-single-page .content-column-content p,
 .bio-sim-single-page .content-column-content li,
 .bio-sim-single-page .content-column-content ul li:before {
@@ -461,4 +462,13 @@ p.social {
     background-size: 35px;
     bottom: 175px;
     left: 96%;
+}
+
+.label {
+    text-transform: none;
+}
+
+
+.breadcrumb {
+    text-align: left;
 }

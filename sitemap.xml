@@ -53,18 +53,55 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/argila_rosie/</loc>
+    <lastmod>2016-11-05T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/argila_verde/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/</loc>
     <lastmod>2016-11-09T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/category/</loc>
+    <loc>http://bio-sim.ro/tags/carbune_medicinal_activ/</loc>
+    <lastmod>2016-11-04T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/moods/</loc>
+    <loc>http://bio-sim.ro/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/lapte_de_capra/</loc>
+    <lastmod>2016-11-08T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/lapte_de_vaca/</loc>
+    <lastmod>2016-11-06T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/miere_de_albine_poliflora/</loc>
+    <lastmod>2016-11-06T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/petale_de_galbenele/</loc>
+    <lastmod>2016-11-07T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,7 +112,194 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/tag/</loc>
+    <loc>http://bio-sim.ro/categories/products/</loc>
+    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/pudra_de_cereale/</loc>
+    <lastmod>2016-11-06T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/pudra_de_roiba/</loc>
+    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/pudra_de_turmeric/</loc>
+    <lastmod>2016-11-05T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/pudra_de_urucum/</loc>
+    <lastmod>2016-11-07T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/sare_de_mare_fina_neiodata/</loc>
+    <lastmod>2016-11-04T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/categories/soaps/</loc>
+    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/</loc>
+    <lastmod>2016-11-05T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_catina/</loc>
+    <lastmod>2016-11-07T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_cocos/</loc>
+    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_dafin/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_galbenele/</loc>
+    <lastmod>2016-11-07T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_masline/</loc>
+    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_migdale_dulci/</loc>
+    <lastmod>2016-11-02T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_morcov/</loc>
+    <lastmod>2016-11-07T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_palmier/</loc>
+    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_ricin/</loc>
+    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_din_germeni_de_grau/</loc>
+    <lastmod>2016-11-06T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_din_seminte_de_struguri/</loc>
+    <lastmod>2016-11-08T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_citronella/</loc>
+    <lastmod>2016-11-05T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_dafin/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_geraniu/</loc>
+    <lastmod>2016-11-01T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_grapefruit/</loc>
+    <lastmod>2016-11-08T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_lamaie/</loc>
+    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_lavanda/</loc>
+    <lastmod>2016-11-04T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_lemn_de_trandafir/</loc>
+    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_lemongrass/</loc>
+    <lastmod>2016-11-05T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_patchouli/</loc>
+    <lastmod>2016-11-08T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_portocale/</loc>
+    <lastmod>2016-11-07T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_santal/</loc>
+    <lastmod>2016-11-08T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/unt_de_cacao/</loc>
+    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/unt_de_shea/</loc>
+    <lastmod>2016-11-07T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   

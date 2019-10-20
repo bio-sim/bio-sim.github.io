@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Argila_verde on BioSim</title>
+    <link>http://bio-sim.ro/tags/argila_verde/</link>
+    <description>Recent content in Argila_verde on BioSim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Nov 2016 10:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="http://bio-sim.ro/tags/argila_verde/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Săpun „Alep”</title>
+      <link>http://bio-sim.ro/products/soaps/sapun_alep/</link>
+      <pubDate>Thu, 03 Nov 2016 10:00:00 +0530</pubDate>
+      
+      <guid>http://bio-sim.ro/products/soaps/sapun_alep/</guid>
+      <description>&lt;p&gt;Un săpun deosebit, special, cu ingrediente prețioase.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
