@@ -24,6 +24,10 @@ body {
 
 /* SIDEBAR MENU */
 
+.sidebar-menu {
+    margin-bottom: 56px;
+}
+
 .sidebar-menu>li {
     line-height: 1.5;
 }
@@ -96,10 +100,6 @@ p.social a {
 .copyright,
 p.social a {
     color: #fafafa;
-}
-
-p.social {
-    margin-top: 40px;
 }
 
 .box-masonry h4 {
