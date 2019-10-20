@@ -21,9 +21,35 @@ body {
     color:#00316b;
 }
 
-.sidebar-menu {
-    margin-bottom: 20px;
+/* SIDEBAR MENU */
+
+.sidebar-menu>li {
+    line-height: 1.5;
 }
+
+.sidebar-menu li:before,
+.sidebar-menu li a {
+    color: #fafafa;
+}
+
+.sidebar-menu li:hover:before,
+.sidebar-menu li:hover a {
+    color: #fafafa;
+}
+
+.sidebar-menu li:hover:before {
+    content: '\f0da';
+}
+
+.sidebar-menu li:hover > a {
+    font-weight: bold;
+}
+
+.sidebar-menu li > ul {
+    margin-top: 5px;
+}
+
+/* --- */
 
 .sidebar-heading {
     border-radius: 3px 3px 0 0;
@@ -61,41 +87,13 @@ body {
     margin-bottom: 56px;
 }
 
-.sidebar-menu>li>span {
-    color: #fafafa;
-}
-
 p.social a {
     border-color: #fafafa;
 }
 
 .copyright p.credit a,
 .copyright,
-p.social a,
-.sidebar-menu li:before,
-.sidebar-menu>li a {
-    color: #fafafa;
-}
-
-.sidebar-menu>li {
-    line-height: 1.5;
-}
-
-.sidebar-menu>li.sidebar-sub-menu>ul {
-    margin-top: 5px;
-}
-
-.sidebar-menu>li.sidebar-sub-menu.active a {
-    color: #fafafa;
-}
-.sidebar-menu>li.sidebar-sub-menu.active:before {
-    color: #fafafa;
-}
-.sidebar-menu>li.sidebar-sub-menu:hover a {
-    text-decoration: none;
-    color: #fafafa;
-}
-.sidebar-menu>li.sidebar-sub-menu:hover:before {
+p.social a {
     color: #fafafa;
 }
 

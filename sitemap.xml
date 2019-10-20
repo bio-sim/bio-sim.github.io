@@ -3,84 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://bio-sim.ro/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_spa_cu_sare_de_mare_si_carbune_activ/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_cu_lapte_de_capra_si_argila_rosie/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_cu_lapte_miere_ovaz_si_germeni_de_grau/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_deodorant_cu_lemongrass_si_citronella/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://bio-sim.ro/products/soaps/sapun_hidratant_cu_unt_de_cacao_si_trandafir/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://bio-sim.ro/products/soaps/sapun_hidratant_pentru_piele_sensibila_cu_lapte_de_capra_si_pudra_de_roiba/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <lastmod>2016-11-08T10:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://bio-sim.ro/products/soaps/sapun_luxuriant_cu_catina_morcov_si_galbenele/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <lastmod>2016-11-07T10:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_pentru_piele_sensibila_pentru_copii/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>http://bio-sim.ro/products/soaps/sapun_cu_lapte_miere_ovaz_si_germeni_de_grau/</loc>
+    <lastmod>2016-11-06T10:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_tonifiant_si_hidratant_cu_argila_rosie_si_unt_de_shea/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>http://bio-sim.ro/products/soaps/sapun_cu_lapte_de_capra_si_argila_rosie/</loc>
+    <lastmod>2016-11-05T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/soaps/sapun_deodorant_cu_lemongrass_si_citronella/</loc>
+    <lastmod>2016-11-05T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/soaps/sapun_spa_cu_sare_de_mare_si_carbune_activ/</loc>
+    <lastmod>2016-11-04T10:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://bio-sim.ro/products/soaps/sapun_alep/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/soaps/sapun_pentru_piele_sensibila_pentru_copii/</loc>
+    <lastmod>2016-11-02T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/soaps/sapun_tonifiant_si_hidratant_cu_argila_rosie_si_unt_de_shea/</loc>
+    <lastmod>2016-11-01T10:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://bio-sim.ro/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/categories/</loc>
+    <loc>http://bio-sim.ro/category/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/moods/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://bio-sim.ro/products/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/tags/</loc>
+    <loc>http://bio-sim.ro/tag/</loc>
     <priority>0</priority>
   </url>
   
