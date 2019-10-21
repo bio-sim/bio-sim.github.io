@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/soaps/sapun_regenerant_cu_aloe_vera_si_spirulina/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/soaps/sapun_alep/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
@@ -92,6 +97,12 @@
   
   <url>
     <loc>http://bio-sim.ro/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/gel_natural_de_aloe_vera/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -169,6 +180,12 @@
   <url>
     <loc>http://bio-sim.ro/categories/soaps/</loc>
     <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/spirulina/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -293,6 +310,12 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_litsea_cubeba/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_patchouli/</loc>
     <lastmod>2016-11-08T10:00:00+05:30</lastmod>
     <priority>0</priority>
@@ -301,6 +324,12 @@
   <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_portocale/</loc>
     <lastmod>2016-11-07T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_rozmarin/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
