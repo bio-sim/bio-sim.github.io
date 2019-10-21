@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/soaps/sapun_exfoliant_energizant_cu_portocale_si_scortisoara/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/soaps/sapun_alep/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
@@ -134,6 +139,12 @@
   <url>
     <loc>http://bio-sim.ro/tags/pudra_de_roiba/</loc>
     <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/pudra_de_scortisoara/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -300,13 +311,19 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_scortisoara/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/unt_de_cacao/</loc>
     <lastmod>2016-11-09T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/tags/unt_de_shea/</loc>
+    <loc>http://bio-sim.ro/tags/unt_de_shea_nerafinat/</loc>
     <lastmod>2016-11-07T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
