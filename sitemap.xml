@@ -43,6 +43,21 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/cosmetics/apa_de_gura_anti_carie_anti_tartru_anti_placa_bacteriana/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/cosmetics/past%C4%83_de_dinti_pentru_toata_familia/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/cosmetics/pudra_de_curatat_si_albit_dintii_cu_carbune_medicinal/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/soaps/sapun_exfoliant_energizant_cu_portocale_si_scortisoara/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
@@ -74,11 +89,18 @@
   
   <url>
     <loc>http://bio-sim.ro/products/cosmetics/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://bio-sim.ro/products/soaps/</loc>
     <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/apa_distilata/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -94,8 +116,20 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/bicarbonat_de_na/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/</loc>
     <lastmod>2016-11-09T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ca_co_3/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -111,7 +145,31 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/conservant/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/categories/cosmetics/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/gel_natural_de_aloe_vera/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/glicerina/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/kaolin/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -131,6 +189,12 @@
   <url>
     <loc>http://bio-sim.ro/tags/lapte_de_vaca/</loc>
     <lastmod>2016-11-06T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/menthol/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -207,7 +271,19 @@
   
   <url>
     <loc>http://bio-sim.ro/tags/</loc>
-    <lastmod>2016-11-05T10:00:00+05:30</lastmod>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/tensida/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/tinctura_de_propolis/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -284,6 +360,12 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_cuisoare/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_dafin/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
@@ -332,6 +414,12 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_menta/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_patchouli/</loc>
     <lastmod>2016-11-08T10:00:00+05:30</lastmod>
     <priority>0</priority>
@@ -345,6 +433,12 @@
   
   <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_rozmarin/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_salvie/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -370,6 +464,18 @@
   <url>
     <loc>http://bio-sim.ro/tags/unt_de_shea_nerafinat/</loc>
     <lastmod>2016-11-07T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/xanthan/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/xylitol/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   

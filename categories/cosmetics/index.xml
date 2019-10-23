@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cosmetics on BioSim</title>
+    <link>http://bio-sim.ro/categories/cosmetics/</link>
+    <description>Recent content in Cosmetics on BioSim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Nov 2016 10:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="http://bio-sim.ro/categories/cosmetics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apă de gură anti-carie, anti-tartru, anti-placă bacteriană</title>
+      <link>http://bio-sim.ro/products/cosmetics/apa_de_gura_anti_carie_anti_tartru_anti_placa_bacteriana/</link>
+      <pubDate>Thu, 03 Nov 2016 10:00:00 +0530</pubDate>
+      
+      <guid>http://bio-sim.ro/products/cosmetics/apa_de_gura_anti_carie_anti_tartru_anti_placa_bacteriana/</guid>
+      <description>&lt;p&gt;Este o apă de gură cu puternice efecte antiseptice și antibacteriene. Nu conține alcool. Calmează gingiile iritate,
+împrospătează cavitatea bucală.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pastă de dinți pentru toată familia</title>
+      <link>http://bio-sim.ro/products/cosmetics/past%C4%83_de_dinti_pentru_toata_familia/</link>
+      <pubDate>Thu, 03 Nov 2016 10:00:00 +0530</pubDate>
+      
+      <guid>http://bio-sim.ro/products/cosmetics/past%C4%83_de_dinti_pentru_toata_familia/</guid>
+      <description>&lt;p&gt;Pasta de dinți are o aromă fresh, ușor mentolată. Abrazivitatea este una medie. Nu face spumă deoarece nu conține agenți
+de spumare.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pudră de curățat și albit dinții cu cărbune medicinal</title>
+      <link>http://bio-sim.ro/products/cosmetics/pudra_de_curatat_si_albit_dintii_cu_carbune_medicinal/</link>
+      <pubDate>Thu, 03 Nov 2016 10:00:00 +0530</pubDate>
+      
+      <guid>http://bio-sim.ro/products/cosmetics/pudra_de_curatat_si_albit_dintii_cu_carbune_medicinal/</guid>
+      <description>&lt;p&gt;Este un produs pentru curățat dinții extrem de plăcut. După periaj lasă p senzație de dinți perfect curățați și o
+respirație proaspătă.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
