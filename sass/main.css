@@ -8031,13 +8031,11 @@ body {
         content: '-';
         margin: 0 5px 0 -15px;
         color: #fafafa; }
-      .biosim-sidebar .biosim-sidebar-menu .nav-link.active-node {
+      .biosim-sidebar .biosim-sidebar-menu .nav-link.active-node, .biosim-sidebar .biosim-sidebar-menu .nav-link.active-leaf, .biosim-sidebar .biosim-sidebar-menu .nav-link:hover {
         font-weight: bold; }
-      .biosim-sidebar .biosim-sidebar-menu .nav-link.active-leaf, .biosim-sidebar .biosim-sidebar-menu .nav-link:hover {
-        font-weight: bold; }
-        .biosim-sidebar .biosim-sidebar-menu .nav-link.active-leaf:before, .biosim-sidebar .biosim-sidebar-menu .nav-link:hover:before {
-          font-family: 'Font Awesome 5 Free';
-          content: '\f0da'; }
+      .biosim-sidebar .biosim-sidebar-menu .nav-link.active-leaf:before {
+        font-family: 'Font Awesome 5 Free';
+        content: '\f0da'; }
   .biosim-sidebar .biosim-sidebar-copyright {
     font-size: 22px;
     font-family: 'Dancing Script';
