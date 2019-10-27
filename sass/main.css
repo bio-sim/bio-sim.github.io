@@ -8024,17 +8024,18 @@ body {
       padding-top: 0;
       margin-top: 0 !important;
       margin-bottom: 0 !important; }
-      .biosim-sidebar .biosim-sidebar-menu .nav-link.active:before {
+      .biosim-sidebar .biosim-sidebar-menu .nav-link.active-leaf:before {
         font-family: 'Font Awesome 5 Free'; }
       .biosim-sidebar .biosim-sidebar-menu .nav-link:before {
+        font-weight: bold;
         content: '-';
         margin: 0 5px 0 -15px;
         color: #fafafa; }
-      .biosim-sidebar .biosim-sidebar-menu .nav-link.active {
-        background-color: inherit; }
-      .biosim-sidebar .biosim-sidebar-menu .nav-link.active, .biosim-sidebar .biosim-sidebar-menu .nav-link:hover {
+      .biosim-sidebar .biosim-sidebar-menu .nav-link.active-node {
         font-weight: bold; }
-        .biosim-sidebar .biosim-sidebar-menu .nav-link.active:before, .biosim-sidebar .biosim-sidebar-menu .nav-link:hover:before {
+      .biosim-sidebar .biosim-sidebar-menu .nav-link.active-leaf, .biosim-sidebar .biosim-sidebar-menu .nav-link:hover {
+        font-weight: bold; }
+        .biosim-sidebar .biosim-sidebar-menu .nav-link.active-leaf:before, .biosim-sidebar .biosim-sidebar-menu .nav-link:hover:before {
           font-family: 'Font Awesome 5 Free';
           content: '\f0da'; }
   .biosim-sidebar .biosim-sidebar-copyright {
