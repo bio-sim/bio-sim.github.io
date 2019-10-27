@@ -8020,6 +8020,11 @@ body {
   .biosim-sidebar .biosim-sidebar-menu {
     margin-bottom: 56px;
     padding-left: 0.5rem; }
+    .biosim-sidebar .biosim-sidebar-menu .nav-item.active a.nav-link {
+      font-weight: bold; }
+      .biosim-sidebar .biosim-sidebar-menu .nav-item.active a.nav-link:before {
+        font-weight: bold;
+        content: '\f0da'; }
     .biosim-sidebar .biosim-sidebar-menu .nav-link {
       padding-top: 0;
       margin-top: 0 !important;
@@ -8029,11 +8034,9 @@ body {
         content: '\f105';
         margin: 0 5px 0 -15px;
         color: #fafafa; }
-      .biosim-sidebar .biosim-sidebar-menu .nav-link.active {
-        background-color: inherit; }
-      .biosim-sidebar .biosim-sidebar-menu .nav-link.active, .biosim-sidebar .biosim-sidebar-menu .nav-link:hover {
+      .biosim-sidebar .biosim-sidebar-menu .nav-link:hover {
         font-weight: bold; }
-        .biosim-sidebar .biosim-sidebar-menu .nav-link.active:before, .biosim-sidebar .biosim-sidebar-menu .nav-link:hover:before {
+        .biosim-sidebar .biosim-sidebar-menu .nav-link:hover:before {
           content: '\f0da'; }
   .biosim-sidebar .biosim-sidebar-copyright {
     font-size: 22px;
