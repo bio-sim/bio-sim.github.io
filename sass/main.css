@@ -8019,22 +8019,24 @@ body {
     letter-spacing: normal; }
   .biosim-sidebar .biosim-sidebar-menu {
     margin-bottom: 56px;
-    padding-left: 0.5rem; }
+    padding-left: 0; }
     .biosim-sidebar .biosim-sidebar-menu .nav-link {
       padding-top: 0;
       margin-top: 0 !important;
       margin-bottom: 0 !important; }
-      .biosim-sidebar .biosim-sidebar-menu .nav-link.active-leaf:before {
-        font-family: 'Font Awesome 5 Free'; }
-      .biosim-sidebar .biosim-sidebar-menu .nav-link:before {
-        font-weight: bold;
-        content: '-';
-        margin: 0 5px 0 -15px;
-        color: #fafafa; }
-      .biosim-sidebar .biosim-sidebar-menu .nav-link.active-node, .biosim-sidebar .biosim-sidebar-menu .nav-link.active-leaf, .biosim-sidebar .biosim-sidebar-menu .nav-link:hover {
+      .biosim-sidebar .biosim-sidebar-menu .nav-link i {
+        font-size: 16px;
+        margin-right: 2px; }
+      .biosim-sidebar .biosim-sidebar-menu .nav-link:hover, .biosim-sidebar .biosim-sidebar-menu .nav-link.active-node, .biosim-sidebar .biosim-sidebar-menu .nav-link.active-leaf {
         font-weight: bold; }
+      .biosim-sidebar .biosim-sidebar-menu .nav-link:hover:before {
+        font-weight: normal; }
+      .biosim-sidebar .biosim-sidebar-menu .nav-link:before {
+        font-family: 'FontAwesome';
+        content: '\f105';
+        margin: 0 5px 0 -5px;
+        padding: 0; }
       .biosim-sidebar .biosim-sidebar-menu .nav-link.active-leaf:before {
-        font-family: 'Font Awesome 5 Free';
         content: '\f0da'; }
   .biosim-sidebar .biosim-sidebar-copyright {
     font-size: 22px;
@@ -8045,25 +8047,31 @@ body {
     margin-left: 0.5rem; }
     .biosim-sidebar .biosim-sidebar-copyright i {
       font-size: 15px; }
-  .biosim-sidebar p.social a {
-    margin: 0 10px 10px 0;
-    display: inline-block;
-    width: 40px;
-    height: 40px;
-    border-radius: 20px;
-    line-height: 40px;
-    font-size: 15px;
-    text-align: center;
-    vertical-align: bottom;
-    border: solid 1px #fafafa;
-    color: #fafafa;
-    -webkit-transition: all 0.2s ease-out;
-    -moz-transition: all 0.2s ease-out;
-    transition: all 0.2s ease-out; }
-    .biosim-sidebar p.social a:hover {
-      background: #fafafa;
-      color: #0075ff;
-      border-color: #fafafa; }
+  .biosim-sidebar .biosim-sidebar-social {
+    margin-bottom: 25px; }
+    .biosim-sidebar .biosim-sidebar-social a {
+      margin: 0 10px 0 0;
+      display: inline-block;
+      border-radius: 20px;
+      width: 40px;
+      height: 40px;
+      text-align: center;
+      vertical-align: bottom;
+      border: solid 1px #fafafa;
+      color: #fafafa;
+      -webkit-transition: all 0.2s ease-out;
+      -moz-transition: all 0.2s ease-out;
+      transition: all 0.2s ease-out; }
+      .biosim-sidebar .biosim-sidebar-social a .fa-envelope {
+        font-size: 15px;
+        line-height: 39px; }
+      .biosim-sidebar .biosim-sidebar-social a .fa-phone {
+        font-size: 19px;
+        line-height: 40px; }
+      .biosim-sidebar .biosim-sidebar-social a:hover {
+        background: #fafafa;
+        color: #0075ff;
+        border-color: #fafafa; }
 
 .biosim-content-list {
   padding: 40px 15px 300px; }
@@ -8134,13 +8142,19 @@ body {
     font-weight: 700; }
   .biosim-content-single p {
     color: #00316b; }
-  .biosim-content-single li a {
-    color: #00316b; }
-  .biosim-content-single ul li {
+  .biosim-content-single ul, .biosim-content-single ol {
     list-style-type: none; }
-    .biosim-content-single ul li:before {
-      content: '-';
-      margin: 0 5px 0 -15px; }
+    .biosim-content-single ul li a, .biosim-content-single ol li a {
+      color: #00316b; }
+      .biosim-content-single ul li a:hover, .biosim-content-single ol li a:hover {
+        text-decoration: none;
+        border-bottom: dotted 1px #074287; }
+  .biosim-content-single .ingredients li::before {
+    font-family: 'FontAwesome';
+    content: '\f105';
+    margin: 0 5px 0 -15px;
+    color: #00316b;
+    padding: 0; }
   .biosim-content-single .breadcrumb {
     background-color: #fff;
     color: #00316b;
@@ -8152,6 +8166,8 @@ body {
       color: #00316b;
       font-weight: normal; }
     .biosim-content-single .breadcrumb .breadcrumb-item + .breadcrumb-item::before {
-      margin: 0 5px 0 0px;
+      font-family: 'FontAwesome';
+      content: '\f105';
+      margin: 0 5px 0 0;
       color: #00316b;
       padding: 0; }
