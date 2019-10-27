@@ -14,22 +14,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/categories/</loc>
-    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/categories/products/</loc>
-    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://bio-sim.ro/tags/pudra_de_roiba/</loc>
-    <lastmod>2016-11-09T10:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/categories/soaps/</loc>
     <lastmod>2016-11-09T10:00:00+05:30</lastmod>
   </url>
   
@@ -301,11 +286,6 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/categories/cosmetics/</loc>
-    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://bio-sim.ro/tags/extract_natural_aromatic_de_capsuni/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
@@ -327,11 +307,6 @@
   
   <url>
     <loc>http://bio-sim.ro/tags/lapte_de_soia/</loc>
-    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/categories/lips/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -498,6 +473,10 @@
   <url>
     <loc>http://bio-sim.ro/products/cosmetics/skin/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/categories/</loc>
   </url>
   
   <url>
