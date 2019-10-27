@@ -8009,13 +8009,13 @@ body {
   .biosim-sidebar .biosim-sidebar-head-title > a:hover {
     color: #ffffff !important;
     text-decoration: none !important;
-    font: normal normal 70px Dancing Script;
+    font: normal normal 70px 'Dancing Script';
     text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.2);
     background: linear-gradient(to left, red 0, red 33.3%, orange 33.3%, orange 66.6%, blue 66.6%, blue) bottom no-repeat;
     background-size: 100% 3px; }
   .biosim-sidebar .biosim-sidebar-head-about {
     font-size: 21px;
-    font-family: Dancing Script;
+    font-family: 'Dancing Script';
     letter-spacing: normal; }
   .biosim-sidebar .biosim-sidebar-menu {
     margin-bottom: 56px;
@@ -8024,9 +8024,10 @@ body {
       padding-top: 0;
       margin-top: 0 !important;
       margin-bottom: 0 !important; }
+      .biosim-sidebar .biosim-sidebar-menu .nav-link.active:before {
+        font-family: 'Font Awesome 5 Free'; }
       .biosim-sidebar .biosim-sidebar-menu .nav-link:before {
-        font-family: 'FontAwesome';
-        content: '\f105';
+        content: '-';
         margin: 0 5px 0 -15px;
         color: #fafafa; }
       .biosim-sidebar .biosim-sidebar-menu .nav-link.active {
@@ -8034,10 +8035,11 @@ body {
       .biosim-sidebar .biosim-sidebar-menu .nav-link.active, .biosim-sidebar .biosim-sidebar-menu .nav-link:hover {
         font-weight: bold; }
         .biosim-sidebar .biosim-sidebar-menu .nav-link.active:before, .biosim-sidebar .biosim-sidebar-menu .nav-link:hover:before {
+          font-family: 'Font Awesome 5 Free';
           content: '\f0da'; }
   .biosim-sidebar .biosim-sidebar-copyright {
     font-size: 22px;
-    font-family: Dancing Script;
+    font-family: 'Dancing Script';
     text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.2);
     /*font-size: 15px;*/
     margin-bottom: 10px;
@@ -8138,8 +8140,7 @@ body {
   .biosim-content-single ul li {
     list-style-type: none; }
     .biosim-content-single ul li:before {
-      font-family: 'FontAwesome';
-      content: '\f105';
+      content: '-';
       margin: 0 5px 0 -15px; }
   .biosim-content-single .breadcrumb {
     background-color: #fff;
@@ -8152,8 +8153,6 @@ body {
       color: #00316b;
       font-weight: normal; }
     .biosim-content-single .breadcrumb .breadcrumb-item + .breadcrumb-item::before {
-      font-family: 'FontAwesome';
-      content: '\f105';
       margin: 0 5px 0 0px;
       color: #00316b;
       padding: 0; }
