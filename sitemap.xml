@@ -39,7 +39,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/tags/ulei_de_masline/</loc>
+    <loc>http://bio-sim.ro/tags/ulei_de_masline_pomace/</loc>
     <lastmod>2016-11-09T10:00:00+05:30</lastmod>
   </url>
   
@@ -219,6 +219,12 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/cosmetics/deodorant/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/cosmetics/lips/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
@@ -231,12 +237,39 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/cosmetics/remedies/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/cosmetics/skin/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/acid_salicilic/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/alkanet_pudra/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/cosmetics/skin/apa_micelara_anticuperoza/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/apa_distilata/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/apa_minerala_plata/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -252,6 +285,11 @@
   
   <url>
     <loc>http://bio-sim.ro/products/cosmetics/lips/balsam_de_buze_reparator/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/cosmetics/remedies/balsam_reparator_cu_propolis_uleiuri_esentiale_si_galbenele/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -281,12 +319,37 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/cosmetics/skin/cleanser_purifiant/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/conservant/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/cosmetics/deodorant/deo_roll_on_cu_alaun_aloe_vit_e_si_uleiuri_esentiale/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/extract_de_arnica/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/extract_de_chilli/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/extract_natural_aromatic_de_capsuni/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/extracte_din_alge_marine/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -297,6 +360,21 @@
   
   <url>
     <loc>http://bio-sim.ro/tags/glicerina/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/hidrolat_de_hamamelis/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/hidrolat_de_imortele/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/hidrolat_de_rozmarin/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -366,6 +444,11 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_cocos_virgin_presat_la_rece/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/ulei_de_dafin/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
@@ -376,7 +459,17 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_masline_extravirgin/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/ulei_de_migdale_dulci/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_camfor/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -387,6 +480,21 @@
   
   <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_dafin/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_eucalipt/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_ienupar/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_lime/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -412,6 +520,21 @@
   
   <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_scortisoara/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_tea_tree/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_wintergreen/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/cosmetics/remedies/unguent_antireumatic_antiinflamator/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -456,22 +579,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/deodorant/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://bio-sim.ro/products/cosmetics/hair/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/cosmetics/remedies/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/cosmetics/skin/</loc>
     <priority>0</priority>
   </url>
   
