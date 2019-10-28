@@ -8698,6 +8698,8 @@ body {
   .biosim-content-single .breadcrumb .breadcrumb-item.active {
     color: #00316b;
     font-weight: normal; }
+  .biosim-content-single .breadcrumb .breadcrumb-item:before {
+    content: none; }
   .biosim-content-single .breadcrumb .breadcrumb-item + .breadcrumb-item:before {
     font-family: 'FontAwesome';
     content: '\f105';
