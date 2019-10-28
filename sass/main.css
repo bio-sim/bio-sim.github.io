@@ -8546,7 +8546,7 @@ body {
       .biosim-sidebar .biosim-sidebar-menu .nav-link i {
         font-size: 16px;
         margin-right: 2px; }
-      .biosim-sidebar .biosim-sidebar-menu .nav-link:hover, .biosim-sidebar .biosim-sidebar-menu .nav-link.active-node, .biosim-sidebar .biosim-sidebar-menu .nav-link.active-leaf {
+      .biosim-sidebar .biosim-sidebar-menu .nav-link:hover, .biosim-sidebar .biosim-sidebar-menu .nav-link.active-leaf {
         font-weight: bold; }
       .biosim-sidebar .biosim-sidebar-menu .nav-link:hover:before {
         font-weight: normal; }
