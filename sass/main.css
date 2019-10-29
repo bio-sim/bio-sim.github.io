@@ -10894,71 +10894,70 @@ body {
     margin-bottom: 24px;
     font-size: 32px;
     font-weight: 700; }
-  .biosim-content-terms ul, .biosim-content-terms ol,
-  .biosim-content-single ul,
-  .biosim-content-single ol {
+  .biosim-content-terms ul.bio-sim-ul-arrows,
+  .biosim-content-single ul.bio-sim-ul-arrows {
     list-style-type: none; }
-    .biosim-content-terms ul li:before, .biosim-content-terms ol li:before,
-    .biosim-content-single ul li:before,
-    .biosim-content-single ol li:before {
+    .biosim-content-terms ul.bio-sim-ul-arrows li:before,
+    .biosim-content-single ul.bio-sim-ul-arrows li:before {
       font-family: 'FontAwesome';
       content: '\f105';
       margin: 0 5px 0 -15px;
       color: #00316b;
       padding: 0; }
-    .biosim-content-terms ul li a, .biosim-content-terms ol li a,
-    .biosim-content-single ul li a,
-    .biosim-content-single ol li a {
+    .biosim-content-terms ul.bio-sim-ul-arrows li a,
+    .biosim-content-single ul.bio-sim-ul-arrows li a {
       color: #00316b; }
-      .biosim-content-terms ul li a:hover, .biosim-content-terms ol li a:hover,
-      .biosim-content-single ul li a:hover,
-      .biosim-content-single ol li a:hover {
+      .biosim-content-terms ul.bio-sim-ul-arrows li a:hover,
+      .biosim-content-single ul.bio-sim-ul-arrows li a:hover {
         text-decoration: none;
         border-bottom: dotted 1px #074287; }
 
-.biosim-content-single {
-  /* Carousel base class */ }
-  .biosim-content-single img {
-    margin: 30px 0 40px 0; }
-  .biosim-content-single h4 {
+.biosim-content-single img {
+  margin: 30px 0 40px 0; }
+
+.biosim-content-single h4 {
+  color: #00316b;
+  font-size: 24px;
+  font-weight: 700; }
+
+.biosim-content-single p {
+  color: #00316b; }
+
+.biosim-content-single .breadcrumb {
+  background-color: #fff;
+  color: #00316b;
+  padding: 0.75rem 1rem 0.75rem 0; }
+  .biosim-content-single .breadcrumb a:hover {
+    text-decoration: none !important;
+    border-bottom: dotted 1px #074287; }
+  .biosim-content-single .breadcrumb .breadcrumb-item.active {
     color: #00316b;
-    font-size: 24px;
-    font-weight: 700; }
-  .biosim-content-single p {
-    color: #00316b; }
-  .biosim-content-single .breadcrumb {
-    background-color: #fff;
+    font-weight: normal; }
+  .biosim-content-single .breadcrumb .breadcrumb-item:before {
+    content: none; }
+  .biosim-content-single .breadcrumb .breadcrumb-item + .breadcrumb-item:before {
+    font-family: 'FontAwesome';
+    content: '\f105';
+    margin: 0 5px 0 0;
     color: #00316b;
-    padding: 0.75rem 1rem 0.75rem 0; }
-    .biosim-content-single .breadcrumb a:hover {
-      text-decoration: none !important;
-      border-bottom: dotted 1px #074287; }
-    .biosim-content-single .breadcrumb .breadcrumb-item.active {
-      color: #00316b;
-      font-weight: normal; }
-    .biosim-content-single .breadcrumb .breadcrumb-item:before {
-      content: none; }
-    .biosim-content-single .breadcrumb .breadcrumb-item + .breadcrumb-item:before {
-      font-family: 'FontAwesome';
-      content: '\f105';
-      margin: 0 5px 0 0;
-      color: #00316b;
-      padding: 0; }
-  .biosim-content-single .carousel .carousel-caption {
-    z-index: 10; }
-  .biosim-content-single .carousel .carousel-indicators {
-    bottom: 30px; }
-    .biosim-content-single .carousel .carousel-indicators li {
-      width: 10px;
-      height: 10px;
-      border-radius: 100%; }
-  .biosim-content-single .carousel .carousel-inner .item {
-    /* Declare heights because of positioning of img element */
-    height: 500px;
-    background-color: #777; }
-    .biosim-content-single .carousel .carousel-inner .item img {
-      position: absolute;
-      top: 0;
-      left: 0;
-      min-width: 100%;
-      height: 500px; }
+    padding: 0; }
+
+.biosim-content-single .carousel .carousel-caption {
+  z-index: 10; }
+
+.biosim-content-single .carousel .carousel-indicators {
+  bottom: 30px; }
+  .biosim-content-single .carousel .carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%; }
+
+.biosim-content-single .carousel .carousel-inner .item {
+  /* Declare heights because of positioning of img element */
+  background-color: #777; }
+  .biosim-content-single .carousel .carousel-inner .item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 500px; }
