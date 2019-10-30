@@ -10420,25 +10420,25 @@ body {
 
 .bird1-static {
   bottom: 275px;
-  left: 340px;
+  left: 44%;
   transform: scaleX(-1);
   background-position: 0px   0px; }
 
 .bird2-static {
   bottom: 250px;
-  left: 250px;
+  left: 33%;
   transform: scaleX(-1);
   background-position: -60px   0px; }
 
 .bird3-static {
   bottom: 300px;
-  left: 150px;
+  left: 19%;
   transform: scaleX(-1);
   background-position: -30px -30px; }
 
 .bird4-static {
   bottom: 320px;
-  left: 100px;
+  left: 13%;
   transform: scaleX(-1);
   background-position: -30px   0px; }
 
