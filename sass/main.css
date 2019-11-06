@@ -10810,6 +10810,8 @@ body {
         padding: 0; }
       .biosim-sidebar .biosim-sidebar-menu .nav-link.active-leaf:before {
         content: '\f0da'; }
+    .biosim-sidebar .biosim-sidebar-menu .ml-9, .biosim-sidebar .biosim-sidebar-menu .mx-9 {
+      margin-left: 3rem !important; }
   .biosim-sidebar .biosim-sidebar-copyright {
     font-size: 22px;
     font-family: 'Dancing Script';

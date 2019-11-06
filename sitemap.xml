@@ -361,6 +361,11 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/about/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/extract_aromatic_de_capsuni/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
@@ -621,6 +626,11 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/cosmetics/</loc>
     <priority>0</priority>
   </url>
@@ -660,10 +670,6 @@
   
   <url>
     <loc>http://bio-sim.ro/products/cosmetics/oral_hygiene/article/</loc>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/</loc>
   </url>
   
 </urlset>
