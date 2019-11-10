@@ -10514,6 +10514,18 @@ body {
   background-repeat: repeat-x;
   z-index: -2; }
 
+.trees {
+  position: fixed;
+  bottom: 200px;
+  left: 0;
+  right: 550px;
+  height: 500px;
+  background-image: url(/images/background/trees.png);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  transform: scale(1.6);
+  z-index: -3; }
+
 .flower-1 {
   width: 100px;
   height: 65px;
