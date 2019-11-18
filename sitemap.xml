@@ -225,6 +225,12 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/cosmetics/hair/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/cosmetics/lips/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
@@ -611,6 +617,11 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/cosmetics/hair/sampon_natural_solid_cu_urzica_henna_si_pudre_ayurvedice/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/soaps/sapun_pentru_piele_sensibila_pentru_copii/</loc>
     <lastmod>2016-11-02T10:00:00+05:30</lastmod>
   </url>
@@ -642,11 +653,6 @@
   
   <url>
     <loc>http://bio-sim.ro/products/cosmetics/body/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/cosmetics/hair/</loc>
     <priority>0</priority>
   </url>
   
