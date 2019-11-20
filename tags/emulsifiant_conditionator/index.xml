@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>extracte_din_alge_marine on BioSim</title>
-    <link>http://bio-sim.ro/tags/extracte_din_alge_marine/</link>
-    <description>Recent content in extracte_din_alge_marine on BioSim</description>
+    <title>emulsifiant_conditionator on BioSim</title>
+    <link>http://bio-sim.ro/tags/emulsifiant_conditionator/</link>
+    <description>Recent content in emulsifiant_conditionator on BioSim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
     <lastBuildDate>Thu, 03 Nov 2016 10:00:00 +0530</lastBuildDate>
     
-	<atom:link href="http://bio-sim.ro/tags/extracte_din_alge_marine/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bio-sim.ro/tags/emulsifiant_conditionator/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>http://bio-sim.ro/products/cosmetics/hair/balsam/balsam_pentru_par_cu_ulei_de_cocos_si_ylang_ylang/</guid>
       <description>&lt;p&gt;Este un balsam ce poate fi aplicat pe orice tip de păr. Are efect de hidratare, protecție, lăsând părul moale și ușor de
 pieptănat.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Cleanser purifiant</title>
-      <link>http://bio-sim.ro/products/cosmetics/skin/cleanser_purifiant/</link>
-      <pubDate>Thu, 03 Nov 2016 10:00:00 +0530</pubDate>
-      
-      <guid>http://bio-sim.ro/products/cosmetics/skin/cleanser_purifiant/</guid>
-      <description></description>
     </item>
     
   </channel>

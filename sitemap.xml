@@ -225,6 +225,12 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/cosmetics/hair/balsam/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/cosmetics/hair/shampoo/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
@@ -312,6 +318,11 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/cosmetics/hair/balsam/balsam_pentru_par_cu_ulei_de_cocos_si_ylang_ylang/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/cosmetics/remedies/balsam_reparator_cu_propolis_uleiuri_esentiale_si_galbenele/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
@@ -373,6 +384,11 @@
   
   <url>
     <loc>http://bio-sim.ro/about/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/emulsifiant_conditionator/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -698,11 +714,6 @@
   
   <url>
     <loc>http://bio-sim.ro/products/cosmetics/hair/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/cosmetics/hair/balsam/</loc>
     <priority>0</priority>
   </url>
   
