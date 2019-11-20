@@ -225,7 +225,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/hair/</loc>
+    <loc>http://bio-sim.ro/products/cosmetics/hair/shampoo/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -657,7 +657,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/hair/sampon_natural_solid_cu_urzica_henna_si_pudre_ayurvedice/</loc>
+    <loc>http://bio-sim.ro/products/cosmetics/hair/shampoo/sampon_natural_solid_cu_urzica_henna_si_pudre_ayurvedice/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -697,12 +697,12 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/hair/normal/</loc>
+    <loc>http://bio-sim.ro/products/cosmetics/hair/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/hair/oily/</loc>
+    <loc>http://bio-sim.ro/products/cosmetics/hair/balsam/</loc>
     <priority>0</priority>
   </url>
   
@@ -712,6 +712,10 @@
   
   <url>
     <loc>http://bio-sim.ro/products/cosmetics/deodorant/article/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/cosmetics/hair/balsam/article/</loc>
   </url>
   
   <url>
