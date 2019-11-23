@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BioSim</title>
-    <link>http://bio-sim.ro/products/cosmetics/deodorant/</link>
-    <description>Recent content on BioSim</description>
+    <title>pudra_de_alaun on BioSim</title>
+    <link>http://bio-sim.ro/tags/pudra_de_alaun/</link>
+    <description>Recent content in pudra_de_alaun on BioSim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
     <lastBuildDate>Thu, 03 Nov 2016 10:00:00 +0530</lastBuildDate>
     
-	<atom:link href="http://bio-sim.ro/products/cosmetics/deodorant/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bio-sim.ro/tags/pudra_de_alaun/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -29,17 +29,6 @@ compoziția transpirației.&lt;/p&gt;</description>
       <guid>http://bio-sim.ro/products/cosmetics/deodorant/spray_deodorant_cu_alaun_si_aloe_vera/</guid>
       <description>&lt;p&gt;Este o variantă (tip spray) de deodorant natural extrem de eficientă, la fel ca și celelalte (roll-on sau stick), cu
 deosebirea că poate, pentru unele persoane, e mai comod de folosit în varianta aceasta cu pulverizator.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Despre produsele din această categorie</title>
-      <link>http://bio-sim.ro/products/cosmetics/deodorant/article/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://bio-sim.ro/products/cosmetics/deodorant/article/</guid>
-      <description>&lt;p&gt;Deodorantele se numără printre produsele de igienă pe care le folosim cu toții. Toți cei aflați la vârsta adultă au
-utilizat ani la rândul antiperspirantele gen „Nivea” din comerț cu rezultate foarte bune. De aceea, mulți dintre noi
-consideră că este foarte greu, dacă nu imposibil, de a găsi un înlocuitor natural al acestor antiperspirante.&lt;/p&gt;</description>
     </item>
     
   </channel>
