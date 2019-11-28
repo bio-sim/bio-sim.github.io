@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/</loc>
     <lastmod>2016-11-09T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -19,12 +19,12 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_hidratant_cu_unt_de_cacao_si_roiba/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_hidratant_cu_unt_de_cacao_si_roiba/</loc>
     <lastmod>2016-11-09T10:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_hidratant_cu_unt_de_cacao_si_trandafir/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_hidratant_cu_unt_de_cacao_si_trandafir/</loc>
     <lastmod>2016-11-09T10:00:00+05:30</lastmod>
   </url>
   
@@ -84,7 +84,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_hidratant_pentru_piele_sensibila_cu_lapte_de_capra_si_pudra_de_roiba/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_hidratant_pentru_piele_sensibila_cu_lapte_de_capra_si_pudra_de_roiba/</loc>
     <lastmod>2016-11-08T10:00:00+05:30</lastmod>
   </url>
   
@@ -114,7 +114,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_luxuriant_cu_catina_morcov_si_galbenele/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_luxuriant_cu_catina_morcov_si_galbenele/</loc>
     <lastmod>2016-11-07T10:00:00+05:30</lastmod>
   </url>
   
@@ -159,7 +159,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_cu_lapte_miere_ovaz_si_germeni_de_grau/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_cu_lapte_miere_ovaz_si_germeni_de_grau/</loc>
     <lastmod>2016-11-06T10:00:00+05:30</lastmod>
   </url>
   
@@ -179,12 +179,12 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_cu_lapte_de_capra_si_argila_rosie/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_cu_lapte_de_capra_si_argila_rosie/</loc>
     <lastmod>2016-11-05T10:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_deodorant_cu_lemongrass_si_citronella/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_deodorant_cu_lemongrass_si_citronella/</loc>
     <lastmod>2016-11-05T10:00:00+05:30</lastmod>
   </url>
   
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_spa_cu_sare_de_mare_si_carbune_activ/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_spa_cu_sare_de_mare_si_carbune_activ/</loc>
     <lastmod>2016-11-04T10:00:00+05:30</lastmod>
   </url>
   
@@ -219,55 +219,49 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/deodorant/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/balsam/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/hair/balsam/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/salts/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/hair/shampoo/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/shampoo/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/lips/</loc>
+    <loc>http://bio-sim.ro/products/deodorant/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/oral_hygiene/</loc>
+    <loc>http://bio-sim.ro/products/lips/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/remedies/</loc>
+    <loc>http://bio-sim.ro/products/oral_hygiene/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/skin/</loc>
+    <loc>http://bio-sim.ro/products/remedies/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/skin/mixed/</loc>
-    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/cosmetics/skin/normal/</loc>
+    <loc>http://bio-sim.ro/products/skin/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -283,7 +277,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/skin/apa_micelara_sensitive_demachiant/</loc>
+    <loc>http://bio-sim.ro/products/skin/apa_micelara_sensitive_demachiant/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -298,7 +292,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/oral_hygiene/apa_de_gura_anti_carie_anti_tartru_anti_placa_bacteriana/</loc>
+    <loc>http://bio-sim.ro/products/oral_hygiene/apa_de_gura_anti_carie_anti_tartru_anti_placa_bacteriana/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -313,22 +307,27 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/lips/balsam_de_buze_reparator/</loc>
+    <loc>http://bio-sim.ro/products/lips/balsam_de_buze_reparator/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/hair/balsam/balsam_pentru_par_cu_ulei_de_cocos_si_ylang_ylang/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/balsam/balsam_pentru_par_cu_ulei_de_cocos_si_ylang_ylang/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/remedies/balsam_reparator_cu_propolis_uleiuri_esentiale_si_galbenele/</loc>
+    <loc>http://bio-sim.ro/products/remedies/balsam_pentru_raceala_si_dureri/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/lips/balsam_de_buze_protector_rosu/</loc>
+    <loc>http://bio-sim.ro/products/remedies/balsam_reparator_cu_propolis_uleiuri_esentiale_si_galbenele/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/lips/balsam_de_buze_protector_rosu/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -353,7 +352,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/skin/mixed/cleanser_purifiant/</loc>
+    <loc>http://bio-sim.ro/products/skin/cleanser_purifiant/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -363,12 +362,12 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/skin/normal/demachiant_bifazic_trandafir_ten_normal/</loc>
+    <loc>http://bio-sim.ro/products/skin/demachiant_bifazic_trandafir_ten_normal/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/deodorant/deo_roll_on_cu_geranium_si_salvie/</loc>
+    <loc>http://bio-sim.ro/products/deodorant/deo_roll_on_cu_geranium_si_salvie/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -399,6 +398,11 @@
   
   <url>
     <loc>http://bio-sim.ro/tags/extracte_din_alge_marine/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/flori_de_lavanda_maruntite/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -458,7 +462,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/remedies/lotiune_antiinsecte/</loc>
+    <loc>http://bio-sim.ro/products/remedies/lotiune_antiinsecte/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -473,7 +477,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/oral_hygiene/pasta_de_dinti_pentru_toata_familia/</loc>
+    <loc>http://bio-sim.ro/products/oral_hygiene/pasta_de_dinti_pentru_toata_familia/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -503,7 +507,17 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/oral_hygiene/pudra_de_curatat_si_albit_dintii_cu_carbune_medicinal/</loc>
+    <loc>http://bio-sim.ro/products/oral_hygiene/pudra_de_curatat_si_albit_dintii_cu_carbune_medicinal/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/sare_de_mare/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/sare_epsom/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -513,32 +527,47 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/deodorant/spray_deodorant_cu_alaun_si_aloe_vera/</loc>
+    <loc>http://bio-sim.ro/products/deodorant/spray_deodorant_cu_alaun_si_aloe_vera/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_cu_germeni_de_grau_migdale_miere_si_lapte_de_soia_pentru_copii/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_cu_germeni_de_grau_migdale_miere_si_lapte_de_soia_pentru_copii/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_exfoliant_energizant_cu_portocale_si_scortisoara/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_exfoliant_energizant_cu_portocale_si_scortisoara/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_regenerant_cu_aloe_vera_si_spirulina/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_regenerant_cu_aloe_vera_si_spirulina/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_alep/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_alep/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/bath_and_shower/salts/saruri_de_baie_pentru_raceala_si_dureri_musculare/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/bath_and_shower/salts/saruri_de_baie_pentru_relax_cu_lavanda/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://bio-sim.ro/tags/tensida/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/tensida_de_cocos/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -574,6 +603,16 @@
   
   <url>
     <loc>http://bio-sim.ro/tags/ulei_de_migdale_dulci/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_orez/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_cajeput/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -623,6 +662,11 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_ravintsara/</loc>
+    <lastmod>2016-11-03T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_rozmarin/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
@@ -653,7 +697,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/remedies/unguent_antireumatic_antiinflamator/</loc>
+    <loc>http://bio-sim.ro/products/remedies/unguent_antireumatic_antiinflamator/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
@@ -673,17 +717,17 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/hair/shampoo/sampon_natural_solid_cu_urzica_henna_si_pudre_ayurvedice/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/shampoo/sampon_natural_solid_cu_urzica_henna_si_pudre_ayurvedice/</loc>
     <lastmod>2016-11-03T10:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_pentru_piele_sensibila_pentru_copii/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_pentru_piele_sensibila_pentru_copii/</loc>
     <lastmod>2016-11-02T10:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/soaps/sapun_tonifiant_si_hidratant_cu_argila_rosie_si_unt_de_shea/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_tonifiant_si_hidratant_cu_argila_rosie_si_unt_de_shea/</loc>
     <lastmod>2016-11-01T10:00:00+05:30</lastmod>
   </url>
   
@@ -693,22 +737,17 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/beach/</loc>
+    <loc>http://bio-sim.ro/products/beach/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/body/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/cosmetics/hair/</loc>
+    <loc>http://bio-sim.ro/products/body/</loc>
     <priority>0</priority>
   </url>
   
@@ -717,15 +756,19 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/deodorant/article/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/balsam/article/</loc>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/hair/balsam/article/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/salts/article/</loc>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/cosmetics/oral_hygiene/article/</loc>
+    <loc>http://bio-sim.ro/products/deodorant/article/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/oral_hygiene/article/</loc>
   </url>
   
 </urlset>
