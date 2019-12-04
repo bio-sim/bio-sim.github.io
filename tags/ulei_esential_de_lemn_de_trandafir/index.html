@@ -747,7 +747,15 @@ esențial de geranium.</p>
 <script src="http://bio-sim.ro/scripts/jquery.min.js"></script>
 <script src="http://bio-sim.ro/scripts/bootstrap.min.js"></script>
 <script src="http://bio-sim.ro/scripts/popper.min.js"></script>
-
+<script type="text/javascript">
+$.get("/meta.json?ts=" + new Date().getTime(), function(data) {
+    console.log('Old: ' + '1.0.2');
+    console.log('New: ' + data.version);
+    if ('1.0.2' !== data.version) {
+        location.reload();
+    }
+});
+</script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?forceLang=ro&tracking=1&thirdparty=1&always=1&noGeoIp=1"></script>
 </body>
 </html>
