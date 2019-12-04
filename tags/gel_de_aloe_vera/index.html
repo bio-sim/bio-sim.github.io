@@ -845,9 +845,9 @@ săpunului.</p>
 <script src="http://bio-sim.ro/scripts/popper.min.js"></script>
 <script type="text/javascript">
 $.get("/meta.json?ts=" + new Date().getTime(), function(data) {
-    console.log('Old: ' + '1.0.2');
+    console.log('Old: ' + '1.0.3');
     console.log('New: ' + data.version);
-    if ('1.0.2' !== data.version) {
+    if ('1.0.3' !== data.version) {
         location.reload();
     }
 });
