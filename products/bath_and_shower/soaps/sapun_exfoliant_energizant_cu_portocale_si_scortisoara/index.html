@@ -778,10 +778,16 @@ antiseptice, fiind și un revigorant al sistemului nervos.</p>
 <script src="http://bio-sim.ro/scripts/jquery.min.js"></script>
 <script src="http://bio-sim.ro/scripts/bootstrap.min.js"></script>
 <script>
-    $(".test1");
+    $(".test2");
 </script>
 <script src="http://bio-sim.ro/scripts/popper.min.js"></script>
-
+<script type="text/javascript">
+$.get("/meta.json?ts=" + new Date().getTime(), function(data) {
+    if ('1.0.0' !== data.version) {
+        location.reload();
+    }
+});
+</script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?forceLang=ro&tracking=1&thirdparty=1&always=1&noGeoIp=1"></script>
 </body>
 </html>
