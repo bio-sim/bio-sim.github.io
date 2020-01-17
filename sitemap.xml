@@ -125,6 +125,43 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/bath_and_shower/shampoo/</loc>
+    <lastmod>2020-01-02T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/bath_and_shower/shampoo/sampon_si_balsam_cu_alge_si_trandafiri/</loc>
+    <lastmod>2020-01-02T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/lips/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/lips/balsam_de_buze_cu_catina/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_catina/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_galbenele/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_ricin/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/remedies/</loc>
     <lastmod>2019-12-01T10:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -232,11 +269,6 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/tags/ulei_de_ricin/</loc>
-    <lastmod>2019-11-09T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_lamaie/</loc>
     <lastmod>2019-11-09T10:00:00+00:00</lastmod>
   </url>
@@ -278,16 +310,6 @@
   
   <url>
     <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_luxuriant_cu_catina_morcov_si_galbenele/</loc>
-    <lastmod>2019-11-07T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/ulei_de_catina/</loc>
-    <lastmod>2019-11-07T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/ulei_de_galbenele/</loc>
     <lastmod>2019-11-07T10:00:00+00:00</lastmod>
   </url>
   
@@ -389,12 +411,6 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/bath_and_shower/shampoo/</loc>
-    <lastmod>2019-11-03T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://bio-sim.ro/products/beach/</loc>
     <lastmod>2019-11-03T10:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -402,12 +418,6 @@
   
   <url>
     <loc>http://bio-sim.ro/products/deodorant/</loc>
-    <lastmod>2019-11-03T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/lips/</loc>
     <lastmod>2019-11-03T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -819,7 +829,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/bath_and_shower/shampoo/sampon_natural_solid_cu_urzica_henna_si_pudre_ayurvedice/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/shampoo/sampon_solid_cu_urzica_henna_si_pudre_ayurvedice/</loc>
     <lastmod>2019-11-03T10:00:00+00:00</lastmod>
   </url>
   
