@@ -44,7 +44,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/skin/crema_pentru_ten_matur_antirid_cu_acid_hialuronic_si_colagen/</loc>
+    <loc>http://bio-sim.ro/products/skin/crema_pentru_ten_matur_antiage_cu_acid_hialuronic_si_colagen/</loc>
     <lastmod>2020-01-12T10:00:00+00:00</lastmod>
   </url>
   
@@ -79,6 +79,12 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/eyes/</loc>
+    <lastmod>2020-01-11T17:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/hands/</loc>
     <lastmod>2020-01-11T17:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -90,7 +96,27 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/hands/crema_hidratanta_pentru_maini_cu_uree_si_gliecerina/</loc>
+    <loc>http://bio-sim.ro/products/hands/crema_hidratanta_pentru_maini_cu_uree_si_glicerina/</loc>
+    <lastmod>2020-01-11T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/eyes/crema_pentru_ochi_anti_age_cu_acmella_si_acid_hialuronic/</loc>
+    <lastmod>2020-01-11T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/extract_de_acmella/</loc>
+    <lastmod>2020-01-11T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/extract_de_ceai_verde/</loc>
+    <lastmod>2020-01-11T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/gel_de_aloe_vera/</loc>
     <lastmod>2020-01-11T17:00:00+00:00</lastmod>
   </url>
   
@@ -100,12 +126,32 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/hidrolat_de_albastrele/</loc>
+    <lastmod>2020-01-11T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/niacinamida/</loc>
+    <lastmod>2020-01-11T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/panthenol/</loc>
     <lastmod>2020-01-11T17:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/eyes/ser_contur_ochi_anti_age_cu_extract_de_ceai_verde_si_acid_hialuronic/</loc>
+    <lastmod>2020-01-11T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/ulei_de_cocos/</loc>
+    <lastmod>2020-01-11T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_sofranel/</loc>
     <lastmod>2020-01-11T17:00:00+00:00</lastmod>
   </url>
   
@@ -121,6 +167,11 @@
   
   <url>
     <loc>http://bio-sim.ro/tags/uree/</loc>
+    <lastmod>2020-01-11T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/xanthan/</loc>
     <lastmod>2020-01-11T17:00:00+00:00</lastmod>
   </url>
   
@@ -169,11 +220,6 @@
   
   <url>
     <loc>http://bio-sim.ro/products/skin/apa_micelara_sensitive_demachiant/</loc>
-    <lastmod>2019-12-01T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/gel_de_aloe_vera/</loc>
     <lastmod>2019-12-01T10:00:00+00:00</lastmod>
   </url>
   
@@ -815,11 +861,6 @@
   
   <url>
     <loc>http://bio-sim.ro/products/remedies/unguent_antireumatic_antiinflamator/</loc>
-    <lastmod>2019-11-03T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/xanthan/</loc>
     <lastmod>2019-11-03T10:00:00+00:00</lastmod>
   </url>
   
