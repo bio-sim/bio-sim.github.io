@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://bio-sim.ro/products/</loc>
+    <lastmod>2020-01-12T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/skin/</loc>
     <lastmod>2020-01-12T10:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -20,11 +26,6 @@
   
   <url>
     <loc>http://bio-sim.ro/tags/apa_minerala_plata/</loc>
-    <lastmod>2020-01-12T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/</loc>
     <lastmod>2020-01-12T10:00:00+00:00</lastmod>
   </url>
   
@@ -156,6 +157,11 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_portocale/</loc>
+    <lastmod>2020-01-11T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_portocale_dulci/</loc>
     <lastmod>2020-01-11T17:00:00+00:00</lastmod>
   </url>
@@ -176,6 +182,12 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/bath_and_shower/</loc>
+    <lastmod>2020-01-02T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/bath_and_shower/shampoo/</loc>
     <lastmod>2020-01-02T10:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -187,13 +199,29 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/lips/</loc>
     <lastmod>2020-01-01T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/argila_albastra_de_raciu/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/products/lips/balsam_de_buze_cu_catina/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_detoxifiant_cu_argila_albastra_de_raciu_si_ulei_de_chimen_negru/</loc>
     <lastmod>2020-01-01T10:00:00+00:00</lastmod>
   </url>
   
@@ -203,12 +231,62 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_chimen_negru/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/ulei_de_galbenele/</loc>
     <lastmod>2020-01-01T10:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_masline_pomace/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_de_palmier/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/ulei_de_ricin/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_lavanda/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_lemongrass/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_lime/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_niaouli/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_oregano/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_rozmarin/</loc>
+    <lastmod>2020-01-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/unt_de_shea_nerafinat/</loc>
     <lastmod>2020-01-01T10:00:00+00:00</lastmod>
   </url>
   
@@ -259,11 +337,6 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/tags/ulei_esential_de_lavanda/</loc>
-    <lastmod>2019-12-01T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_lemn_de_trandafir/</loc>
     <lastmod>2019-12-01T10:00:00+00:00</lastmod>
   </url>
@@ -284,18 +357,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/</loc>
-    <lastmod>2019-11-09T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://bio-sim.ro/tags/pudra_de_roiba/</loc>
-    <lastmod>2019-11-09T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_hidratant_cu_unt_de_cacao_si_roiba/</loc>
     <lastmod>2019-11-09T10:00:00+00:00</lastmod>
   </url>
   
@@ -305,43 +367,8 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/tags/ulei_de_masline_pomace/</loc>
-    <lastmod>2019-11-09T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/ulei_de_palmier/</loc>
-    <lastmod>2019-11-09T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_lamaie/</loc>
     <lastmod>2019-11-09T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/ulei_esential_de_santal/</loc>
-    <lastmod>2019-11-09T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/lapte_de_capra/</loc>
-    <lastmod>2019-11-08T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_hidratant_pentru_piele_sensibila_cu_lapte_de_capra_si_pudra_de_roiba/</loc>
-    <lastmod>2019-11-08T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/ulei_esential_de_grapefruit/</loc>
-    <lastmod>2019-11-08T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/ulei_esential_de_patchouli/</loc>
-    <lastmod>2019-11-08T10:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -365,42 +392,17 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/tags/ulei_esential_de_portocale/</loc>
+    <loc>http://bio-sim.ro/tags/ulei_esential_de_patchouli/</loc>
     <lastmod>2019-11-07T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/unt_de_shea_nerafinat/</loc>
-    <lastmod>2019-11-07T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/lapte_de_vaca/</loc>
-    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/miere_de_albine_poliflora/</loc>
-    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/pudra_de_cereale/</loc>
-    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_cu_lapte_miere_ovaz_si_germeni_de_grau/</loc>
-    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/ulei_din_germeni_de_grau/</loc>
-    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://bio-sim.ro/tags/argila_rosie/</loc>
+    <lastmod>2019-11-05T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/tags/lapte_de_capra/</loc>
     <lastmod>2019-11-05T10:00:00+00:00</lastmod>
   </url>
   
@@ -415,7 +417,7 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_deodorant_cu_lemongrass_si_citronella/</loc>
+    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_deodorant_cu_citronella_si_lemongrass/</loc>
     <lastmod>2019-11-05T10:00:00+00:00</lastmod>
   </url>
   
@@ -425,12 +427,12 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/tags/ulei_esential_de_lemongrass/</loc>
-    <lastmod>2019-11-05T10:00:00+00:00</lastmod>
+    <loc>http://bio-sim.ro/tags/carbune_medicinal_activ/</loc>
+    <lastmod>2019-11-04T10:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/tags/carbune_medicinal_activ/</loc>
+    <loc>http://bio-sim.ro/tags/sare_de_mare/</loc>
     <lastmod>2019-11-04T10:00:00+00:00</lastmod>
   </url>
   
@@ -531,6 +533,11 @@
   
   <url>
     <loc>http://bio-sim.ro/tags/bicarbonat_de_na/</loc>
+    <lastmod>2019-11-03T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bio-sim.ro/</loc>
     <lastmod>2019-11-03T10:00:00+00:00</lastmod>
   </url>
   
@@ -650,6 +657,11 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/miere_de_albine_poliflora/</loc>
+    <lastmod>2019-11-03T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/parfumant_de_trandafir/</loc>
     <lastmod>2019-11-03T10:00:00+00:00</lastmod>
   </url>
@@ -670,6 +682,11 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/pudra_de_cereale/</loc>
+    <lastmod>2019-11-03T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/pudra_de_jujube/</loc>
     <lastmod>2019-11-03T10:00:00+00:00</lastmod>
   </url>
@@ -686,11 +703,6 @@
   
   <url>
     <loc>http://bio-sim.ro/products/oral_hygiene/pudra_de_curatat_si_albit_dintii_cu_carbune_medicinal/</loc>
-    <lastmod>2019-11-03T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/sare_de_mare/</loc>
     <lastmod>2019-11-03T10:00:00+00:00</lastmod>
   </url>
   
@@ -790,6 +802,11 @@
   </url>
   
   <url>
+    <loc>http://bio-sim.ro/tags/ulei_din_germeni_de_grau/</loc>
+    <lastmod>2019-11-03T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_camfor/</loc>
     <lastmod>2019-11-03T10:00:00+00:00</lastmod>
   </url>
@@ -815,27 +832,12 @@
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/tags/ulei_esential_de_lime/</loc>
-    <lastmod>2019-11-03T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_litsea_cubeba/</loc>
     <lastmod>2019-11-03T10:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bio-sim.ro/tags/ulei_esential_de_oregano/</loc>
-    <lastmod>2019-11-03T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://bio-sim.ro/tags/ulei_esential_de_ravintsara/</loc>
-    <lastmod>2019-11-03T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/tags/ulei_esential_de_rozmarin/</loc>
     <lastmod>2019-11-03T10:00:00+00:00</lastmod>
   </url>
   
@@ -877,21 +879,6 @@
   <url>
     <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_pentru_piele_sensibila_pentru_copii/</loc>
     <lastmod>2019-11-02T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/bath_and_shower/soaps/sapun_tonifiant_si_hidratant_cu_argila_rosie_si_unt_de_shea/</loc>
-    <lastmod>2019-11-01T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://bio-sim.ro/products/bath_and_shower/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

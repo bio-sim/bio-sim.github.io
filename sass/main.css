@@ -482,8 +482,7 @@ pre {
   @media (min-width: 3840px) {
     .container {
       max-width: 3840px; } }
-
-.container-fluid, .container-xxxs, .container-xxs, .container-xs, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl, .container-xxxl, .container-xxxxl, .container-xxxxxl, .container-xxxxxxl {
+.container-fluid, .container-xxxxxxl, .container-xxxxxl, .container-xxxxl, .container-xxxl, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container-xs, .container-xxs, .container-xxxs {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
@@ -494,47 +493,47 @@ pre {
   max-width: 0; }
 
 @media (min-width: 320px) {
-  .container, .container-xxs {
+  .container-xxs, .container {
     max-width: 320px; } }
 
 @media (min-width: 568px) {
-  .container, .container-xxs, .container-xs {
+  .container-xs, .container-xxs, .container {
     max-width: 568px; } }
 
 @media (min-width: 667px) {
-  .container, .container-xxs, .container-xs, .container-sm {
+  .container-sm, .container-xs, .container-xxs, .container {
     max-width: 667px; } }
 
 @media (min-width: 768px) {
-  .container, .container-xxs, .container-xs, .container-sm, .container-md {
+  .container-md, .container-sm, .container-xs, .container-xxs, .container {
     max-width: 768px; } }
 
 @media (min-width: 992px) {
-  .container, .container-xxs, .container-xs, .container-sm, .container-md, .container-lg {
+  .container-lg, .container-md, .container-sm, .container-xs, .container-xxs, .container {
     max-width: 992px; } }
 
 @media (min-width: 1200px) {
-  .container, .container-xxs, .container-xs, .container-sm, .container-md, .container-lg, .container-xl {
+  .container-xl, .container-lg, .container-md, .container-sm, .container-xs, .container-xxs, .container {
     max-width: 1200px; } }
 
 @media (min-width: 1440px) {
-  .container, .container-xxs, .container-xs, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
+  .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container-xs, .container-xxs, .container {
     max-width: 1440px; } }
 
 @media (min-width: 1600px) {
-  .container, .container-xxs, .container-xs, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl, .container-xxxl {
+  .container-xxxl, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container-xs, .container-xxs, .container {
     max-width: 1600px; } }
 
 @media (min-width: 1920px) {
-  .container, .container-xxs, .container-xs, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl, .container-xxxl, .container-xxxxl {
+  .container-xxxxl, .container-xxxl, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container-xs, .container-xxs, .container {
     max-width: 1920px; } }
 
 @media (min-width: 2160px) {
-  .container, .container-xxs, .container-xs, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl, .container-xxxl, .container-xxxxl, .container-xxxxxl {
+  .container-xxxxxl, .container-xxxxl, .container-xxxl, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container-xs, .container-xxs, .container {
     max-width: 2160px; } }
 
 @media (min-width: 3840px) {
-  .container, .container-xxs, .container-xs, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl, .container-xxxl, .container-xxxxl, .container-xxxxxl, .container-xxxxxxl {
+  .container-xxxxxxl, .container-xxxxxl, .container-xxxxl, .container-xxxl, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container-xs, .container-xxs, .container {
     max-width: 3840px; } }
 
 .row {
@@ -551,19 +550,19 @@ pre {
     padding-right: 0;
     padding-left: 0; }
 
-.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col,
-.col-auto, .col-xxs-1, .col-xxs-2, .col-xxs-3, .col-xxs-4, .col-xxs-5, .col-xxs-6, .col-xxs-7, .col-xxs-8, .col-xxs-9, .col-xxs-10, .col-xxs-11, .col-xxs-12, .col-xxs,
-.col-xxs-auto, .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs,
-.col-xs-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm,
-.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md,
-.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg,
-.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl,
-.col-xl-auto, .col-xxl-1, .col-xxl-2, .col-xxl-3, .col-xxl-4, .col-xxl-5, .col-xxl-6, .col-xxl-7, .col-xxl-8, .col-xxl-9, .col-xxl-10, .col-xxl-11, .col-xxl-12, .col-xxl,
-.col-xxl-auto, .col-xxxl-1, .col-xxxl-2, .col-xxxl-3, .col-xxxl-4, .col-xxxl-5, .col-xxxl-6, .col-xxxl-7, .col-xxxl-8, .col-xxxl-9, .col-xxxl-10, .col-xxxl-11, .col-xxxl-12, .col-xxxl,
-.col-xxxl-auto, .col-xxxxl-1, .col-xxxxl-2, .col-xxxxl-3, .col-xxxxl-4, .col-xxxxl-5, .col-xxxxl-6, .col-xxxxl-7, .col-xxxxl-8, .col-xxxxl-9, .col-xxxxl-10, .col-xxxxl-11, .col-xxxxl-12, .col-xxxxl,
-.col-xxxxl-auto, .col-xxxxxl-1, .col-xxxxxl-2, .col-xxxxxl-3, .col-xxxxxl-4, .col-xxxxxl-5, .col-xxxxxl-6, .col-xxxxxl-7, .col-xxxxxl-8, .col-xxxxxl-9, .col-xxxxxl-10, .col-xxxxxl-11, .col-xxxxxl-12, .col-xxxxxl,
-.col-xxxxxl-auto, .col-xxxxxxl-1, .col-xxxxxxl-2, .col-xxxxxxl-3, .col-xxxxxxl-4, .col-xxxxxxl-5, .col-xxxxxxl-6, .col-xxxxxxl-7, .col-xxxxxxl-8, .col-xxxxxxl-9, .col-xxxxxxl-10, .col-xxxxxxl-11, .col-xxxxxxl-12, .col-xxxxxxl,
-.col-xxxxxxl-auto {
+.col-xxxxxxl,
+.col-xxxxxxl-auto, .col-xxxxxxl-12, .col-xxxxxxl-11, .col-xxxxxxl-10, .col-xxxxxxl-9, .col-xxxxxxl-8, .col-xxxxxxl-7, .col-xxxxxxl-6, .col-xxxxxxl-5, .col-xxxxxxl-4, .col-xxxxxxl-3, .col-xxxxxxl-2, .col-xxxxxxl-1, .col-xxxxxl,
+.col-xxxxxl-auto, .col-xxxxxl-12, .col-xxxxxl-11, .col-xxxxxl-10, .col-xxxxxl-9, .col-xxxxxl-8, .col-xxxxxl-7, .col-xxxxxl-6, .col-xxxxxl-5, .col-xxxxxl-4, .col-xxxxxl-3, .col-xxxxxl-2, .col-xxxxxl-1, .col-xxxxl,
+.col-xxxxl-auto, .col-xxxxl-12, .col-xxxxl-11, .col-xxxxl-10, .col-xxxxl-9, .col-xxxxl-8, .col-xxxxl-7, .col-xxxxl-6, .col-xxxxl-5, .col-xxxxl-4, .col-xxxxl-3, .col-xxxxl-2, .col-xxxxl-1, .col-xxxl,
+.col-xxxl-auto, .col-xxxl-12, .col-xxxl-11, .col-xxxl-10, .col-xxxl-9, .col-xxxl-8, .col-xxxl-7, .col-xxxl-6, .col-xxxl-5, .col-xxxl-4, .col-xxxl-3, .col-xxxl-2, .col-xxxl-1, .col-xxl,
+.col-xxl-auto, .col-xxl-12, .col-xxl-11, .col-xxl-10, .col-xxl-9, .col-xxl-8, .col-xxl-7, .col-xxl-6, .col-xxl-5, .col-xxl-4, .col-xxl-3, .col-xxl-2, .col-xxl-1, .col-xl,
+.col-xl-auto, .col-xl-12, .col-xl-11, .col-xl-10, .col-xl-9, .col-xl-8, .col-xl-7, .col-xl-6, .col-xl-5, .col-xl-4, .col-xl-3, .col-xl-2, .col-xl-1, .col-lg,
+.col-lg-auto, .col-lg-12, .col-lg-11, .col-lg-10, .col-lg-9, .col-lg-8, .col-lg-7, .col-lg-6, .col-lg-5, .col-lg-4, .col-lg-3, .col-lg-2, .col-lg-1, .col-md,
+.col-md-auto, .col-md-12, .col-md-11, .col-md-10, .col-md-9, .col-md-8, .col-md-7, .col-md-6, .col-md-5, .col-md-4, .col-md-3, .col-md-2, .col-md-1, .col-sm,
+.col-sm-auto, .col-sm-12, .col-sm-11, .col-sm-10, .col-sm-9, .col-sm-8, .col-sm-7, .col-sm-6, .col-sm-5, .col-sm-4, .col-sm-3, .col-sm-2, .col-sm-1, .col-xs,
+.col-xs-auto, .col-xs-12, .col-xs-11, .col-xs-10, .col-xs-9, .col-xs-8, .col-xs-7, .col-xs-6, .col-xs-5, .col-xs-4, .col-xs-3, .col-xs-2, .col-xs-1, .col-xxs,
+.col-xxs-auto, .col-xxs-12, .col-xxs-11, .col-xxs-10, .col-xxs-9, .col-xxs-8, .col-xxs-7, .col-xxs-6, .col-xxs-5, .col-xxs-4, .col-xxs-3, .col-xxs-2, .col-xxs-1, .col,
+.col-auto, .col-12, .col-11, .col-10, .col-9, .col-8, .col-7, .col-6, .col-5, .col-4, .col-3, .col-2, .col-1 {
   position: relative;
   width: 100%;
   padding-right: 15px;
@@ -2046,7 +2045,6 @@ pre {
   @media (prefers-reduced-motion: reduce) {
     .collapsing {
       transition: none; } }
-
 .nav {
   display: flex;
   flex-wrap: wrap;
@@ -2119,7 +2117,19 @@ pre {
   justify-content: space-between;
   padding: 0.5rem 1rem; }
   .navbar .container,
-  .navbar .container-fluid, .navbar .container-xxxs, .navbar .container-xxs, .navbar .container-xs, .navbar .container-sm, .navbar .container-md, .navbar .container-lg, .navbar .container-xl, .navbar .container-xxl, .navbar .container-xxxl, .navbar .container-xxxxl, .navbar .container-xxxxxl, .navbar .container-xxxxxxl {
+  .navbar .container-fluid,
+  .navbar .container-xxxs,
+  .navbar .container-xxs,
+  .navbar .container-xs,
+  .navbar .container-sm,
+  .navbar .container-md,
+  .navbar .container-lg,
+  .navbar .container-xl,
+  .navbar .container-xxl,
+  .navbar .container-xxxl,
+  .navbar .container-xxxxl,
+  .navbar .container-xxxxxl,
+  .navbar .container-xxxxxxl {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -2180,7 +2190,19 @@ pre {
 
 @media (max-width: 319.98px) {
   .navbar-expand-xxs > .container,
-  .navbar-expand-xxs > .container-fluid, .navbar-expand-xxs > .container-xxxs, .navbar-expand-xxs > .container-xxs, .navbar-expand-xxs > .container-xs, .navbar-expand-xxs > .container-sm, .navbar-expand-xxs > .container-md, .navbar-expand-xxs > .container-lg, .navbar-expand-xxs > .container-xl, .navbar-expand-xxs > .container-xxl, .navbar-expand-xxs > .container-xxxl, .navbar-expand-xxs > .container-xxxxl, .navbar-expand-xxs > .container-xxxxxl, .navbar-expand-xxs > .container-xxxxxxl {
+  .navbar-expand-xxs > .container-fluid,
+  .navbar-expand-xxs > .container-xxxs,
+  .navbar-expand-xxs > .container-xxs,
+  .navbar-expand-xxs > .container-xs,
+  .navbar-expand-xxs > .container-sm,
+  .navbar-expand-xxs > .container-md,
+  .navbar-expand-xxs > .container-lg,
+  .navbar-expand-xxs > .container-xl,
+  .navbar-expand-xxs > .container-xxl,
+  .navbar-expand-xxs > .container-xxxl,
+  .navbar-expand-xxs > .container-xxxxl,
+  .navbar-expand-xxs > .container-xxxxxl,
+  .navbar-expand-xxs > .container-xxxxxxl {
     padding-right: 0;
     padding-left: 0; } }
 
@@ -2196,7 +2218,19 @@ pre {
         padding-right: 0.5rem;
         padding-left: 0.5rem; }
     .navbar-expand-xxs > .container,
-    .navbar-expand-xxs > .container-fluid, .navbar-expand-xxs > .container-xxxs, .navbar-expand-xxs > .container-xxs, .navbar-expand-xxs > .container-xs, .navbar-expand-xxs > .container-sm, .navbar-expand-xxs > .container-md, .navbar-expand-xxs > .container-lg, .navbar-expand-xxs > .container-xl, .navbar-expand-xxs > .container-xxl, .navbar-expand-xxs > .container-xxxl, .navbar-expand-xxs > .container-xxxxl, .navbar-expand-xxs > .container-xxxxxl, .navbar-expand-xxs > .container-xxxxxxl {
+    .navbar-expand-xxs > .container-fluid,
+    .navbar-expand-xxs > .container-xxxs,
+    .navbar-expand-xxs > .container-xxs,
+    .navbar-expand-xxs > .container-xs,
+    .navbar-expand-xxs > .container-sm,
+    .navbar-expand-xxs > .container-md,
+    .navbar-expand-xxs > .container-lg,
+    .navbar-expand-xxs > .container-xl,
+    .navbar-expand-xxs > .container-xxl,
+    .navbar-expand-xxs > .container-xxxl,
+    .navbar-expand-xxs > .container-xxxxl,
+    .navbar-expand-xxs > .container-xxxxxl,
+    .navbar-expand-xxs > .container-xxxxxxl {
       flex-wrap: nowrap; }
     .navbar-expand-xxs .navbar-collapse {
       display: flex !important;
@@ -2206,7 +2240,19 @@ pre {
 
 @media (max-width: 567.98px) {
   .navbar-expand-xs > .container,
-  .navbar-expand-xs > .container-fluid, .navbar-expand-xs > .container-xxxs, .navbar-expand-xs > .container-xxs, .navbar-expand-xs > .container-xs, .navbar-expand-xs > .container-sm, .navbar-expand-xs > .container-md, .navbar-expand-xs > .container-lg, .navbar-expand-xs > .container-xl, .navbar-expand-xs > .container-xxl, .navbar-expand-xs > .container-xxxl, .navbar-expand-xs > .container-xxxxl, .navbar-expand-xs > .container-xxxxxl, .navbar-expand-xs > .container-xxxxxxl {
+  .navbar-expand-xs > .container-fluid,
+  .navbar-expand-xs > .container-xxxs,
+  .navbar-expand-xs > .container-xxs,
+  .navbar-expand-xs > .container-xs,
+  .navbar-expand-xs > .container-sm,
+  .navbar-expand-xs > .container-md,
+  .navbar-expand-xs > .container-lg,
+  .navbar-expand-xs > .container-xl,
+  .navbar-expand-xs > .container-xxl,
+  .navbar-expand-xs > .container-xxxl,
+  .navbar-expand-xs > .container-xxxxl,
+  .navbar-expand-xs > .container-xxxxxl,
+  .navbar-expand-xs > .container-xxxxxxl {
     padding-right: 0;
     padding-left: 0; } }
 
@@ -2222,7 +2268,19 @@ pre {
         padding-right: 0.5rem;
         padding-left: 0.5rem; }
     .navbar-expand-xs > .container,
-    .navbar-expand-xs > .container-fluid, .navbar-expand-xs > .container-xxxs, .navbar-expand-xs > .container-xxs, .navbar-expand-xs > .container-xs, .navbar-expand-xs > .container-sm, .navbar-expand-xs > .container-md, .navbar-expand-xs > .container-lg, .navbar-expand-xs > .container-xl, .navbar-expand-xs > .container-xxl, .navbar-expand-xs > .container-xxxl, .navbar-expand-xs > .container-xxxxl, .navbar-expand-xs > .container-xxxxxl, .navbar-expand-xs > .container-xxxxxxl {
+    .navbar-expand-xs > .container-fluid,
+    .navbar-expand-xs > .container-xxxs,
+    .navbar-expand-xs > .container-xxs,
+    .navbar-expand-xs > .container-xs,
+    .navbar-expand-xs > .container-sm,
+    .navbar-expand-xs > .container-md,
+    .navbar-expand-xs > .container-lg,
+    .navbar-expand-xs > .container-xl,
+    .navbar-expand-xs > .container-xxl,
+    .navbar-expand-xs > .container-xxxl,
+    .navbar-expand-xs > .container-xxxxl,
+    .navbar-expand-xs > .container-xxxxxl,
+    .navbar-expand-xs > .container-xxxxxxl {
       flex-wrap: nowrap; }
     .navbar-expand-xs .navbar-collapse {
       display: flex !important;
@@ -2232,7 +2290,19 @@ pre {
 
 @media (max-width: 666.98px) {
   .navbar-expand-sm > .container,
-  .navbar-expand-sm > .container-fluid, .navbar-expand-sm > .container-xxxs, .navbar-expand-sm > .container-xxs, .navbar-expand-sm > .container-xs, .navbar-expand-sm > .container-sm, .navbar-expand-sm > .container-md, .navbar-expand-sm > .container-lg, .navbar-expand-sm > .container-xl, .navbar-expand-sm > .container-xxl, .navbar-expand-sm > .container-xxxl, .navbar-expand-sm > .container-xxxxl, .navbar-expand-sm > .container-xxxxxl, .navbar-expand-sm > .container-xxxxxxl {
+  .navbar-expand-sm > .container-fluid,
+  .navbar-expand-sm > .container-xxxs,
+  .navbar-expand-sm > .container-xxs,
+  .navbar-expand-sm > .container-xs,
+  .navbar-expand-sm > .container-sm,
+  .navbar-expand-sm > .container-md,
+  .navbar-expand-sm > .container-lg,
+  .navbar-expand-sm > .container-xl,
+  .navbar-expand-sm > .container-xxl,
+  .navbar-expand-sm > .container-xxxl,
+  .navbar-expand-sm > .container-xxxxl,
+  .navbar-expand-sm > .container-xxxxxl,
+  .navbar-expand-sm > .container-xxxxxxl {
     padding-right: 0;
     padding-left: 0; } }
 
@@ -2248,7 +2318,19 @@ pre {
         padding-right: 0.5rem;
         padding-left: 0.5rem; }
     .navbar-expand-sm > .container,
-    .navbar-expand-sm > .container-fluid, .navbar-expand-sm > .container-xxxs, .navbar-expand-sm > .container-xxs, .navbar-expand-sm > .container-xs, .navbar-expand-sm > .container-sm, .navbar-expand-sm > .container-md, .navbar-expand-sm > .container-lg, .navbar-expand-sm > .container-xl, .navbar-expand-sm > .container-xxl, .navbar-expand-sm > .container-xxxl, .navbar-expand-sm > .container-xxxxl, .navbar-expand-sm > .container-xxxxxl, .navbar-expand-sm > .container-xxxxxxl {
+    .navbar-expand-sm > .container-fluid,
+    .navbar-expand-sm > .container-xxxs,
+    .navbar-expand-sm > .container-xxs,
+    .navbar-expand-sm > .container-xs,
+    .navbar-expand-sm > .container-sm,
+    .navbar-expand-sm > .container-md,
+    .navbar-expand-sm > .container-lg,
+    .navbar-expand-sm > .container-xl,
+    .navbar-expand-sm > .container-xxl,
+    .navbar-expand-sm > .container-xxxl,
+    .navbar-expand-sm > .container-xxxxl,
+    .navbar-expand-sm > .container-xxxxxl,
+    .navbar-expand-sm > .container-xxxxxxl {
       flex-wrap: nowrap; }
     .navbar-expand-sm .navbar-collapse {
       display: flex !important;
@@ -2258,7 +2340,19 @@ pre {
 
 @media (max-width: 767.98px) {
   .navbar-expand-md > .container,
-  .navbar-expand-md > .container-fluid, .navbar-expand-md > .container-xxxs, .navbar-expand-md > .container-xxs, .navbar-expand-md > .container-xs, .navbar-expand-md > .container-sm, .navbar-expand-md > .container-md, .navbar-expand-md > .container-lg, .navbar-expand-md > .container-xl, .navbar-expand-md > .container-xxl, .navbar-expand-md > .container-xxxl, .navbar-expand-md > .container-xxxxl, .navbar-expand-md > .container-xxxxxl, .navbar-expand-md > .container-xxxxxxl {
+  .navbar-expand-md > .container-fluid,
+  .navbar-expand-md > .container-xxxs,
+  .navbar-expand-md > .container-xxs,
+  .navbar-expand-md > .container-xs,
+  .navbar-expand-md > .container-sm,
+  .navbar-expand-md > .container-md,
+  .navbar-expand-md > .container-lg,
+  .navbar-expand-md > .container-xl,
+  .navbar-expand-md > .container-xxl,
+  .navbar-expand-md > .container-xxxl,
+  .navbar-expand-md > .container-xxxxl,
+  .navbar-expand-md > .container-xxxxxl,
+  .navbar-expand-md > .container-xxxxxxl {
     padding-right: 0;
     padding-left: 0; } }
 
@@ -2274,7 +2368,19 @@ pre {
         padding-right: 0.5rem;
         padding-left: 0.5rem; }
     .navbar-expand-md > .container,
-    .navbar-expand-md > .container-fluid, .navbar-expand-md > .container-xxxs, .navbar-expand-md > .container-xxs, .navbar-expand-md > .container-xs, .navbar-expand-md > .container-sm, .navbar-expand-md > .container-md, .navbar-expand-md > .container-lg, .navbar-expand-md > .container-xl, .navbar-expand-md > .container-xxl, .navbar-expand-md > .container-xxxl, .navbar-expand-md > .container-xxxxl, .navbar-expand-md > .container-xxxxxl, .navbar-expand-md > .container-xxxxxxl {
+    .navbar-expand-md > .container-fluid,
+    .navbar-expand-md > .container-xxxs,
+    .navbar-expand-md > .container-xxs,
+    .navbar-expand-md > .container-xs,
+    .navbar-expand-md > .container-sm,
+    .navbar-expand-md > .container-md,
+    .navbar-expand-md > .container-lg,
+    .navbar-expand-md > .container-xl,
+    .navbar-expand-md > .container-xxl,
+    .navbar-expand-md > .container-xxxl,
+    .navbar-expand-md > .container-xxxxl,
+    .navbar-expand-md > .container-xxxxxl,
+    .navbar-expand-md > .container-xxxxxxl {
       flex-wrap: nowrap; }
     .navbar-expand-md .navbar-collapse {
       display: flex !important;
@@ -2284,7 +2390,19 @@ pre {
 
 @media (max-width: 991.98px) {
   .navbar-expand-lg > .container,
-  .navbar-expand-lg > .container-fluid, .navbar-expand-lg > .container-xxxs, .navbar-expand-lg > .container-xxs, .navbar-expand-lg > .container-xs, .navbar-expand-lg > .container-sm, .navbar-expand-lg > .container-md, .navbar-expand-lg > .container-lg, .navbar-expand-lg > .container-xl, .navbar-expand-lg > .container-xxl, .navbar-expand-lg > .container-xxxl, .navbar-expand-lg > .container-xxxxl, .navbar-expand-lg > .container-xxxxxl, .navbar-expand-lg > .container-xxxxxxl {
+  .navbar-expand-lg > .container-fluid,
+  .navbar-expand-lg > .container-xxxs,
+  .navbar-expand-lg > .container-xxs,
+  .navbar-expand-lg > .container-xs,
+  .navbar-expand-lg > .container-sm,
+  .navbar-expand-lg > .container-md,
+  .navbar-expand-lg > .container-lg,
+  .navbar-expand-lg > .container-xl,
+  .navbar-expand-lg > .container-xxl,
+  .navbar-expand-lg > .container-xxxl,
+  .navbar-expand-lg > .container-xxxxl,
+  .navbar-expand-lg > .container-xxxxxl,
+  .navbar-expand-lg > .container-xxxxxxl {
     padding-right: 0;
     padding-left: 0; } }
 
@@ -2300,7 +2418,19 @@ pre {
         padding-right: 0.5rem;
         padding-left: 0.5rem; }
     .navbar-expand-lg > .container,
-    .navbar-expand-lg > .container-fluid, .navbar-expand-lg > .container-xxxs, .navbar-expand-lg > .container-xxs, .navbar-expand-lg > .container-xs, .navbar-expand-lg > .container-sm, .navbar-expand-lg > .container-md, .navbar-expand-lg > .container-lg, .navbar-expand-lg > .container-xl, .navbar-expand-lg > .container-xxl, .navbar-expand-lg > .container-xxxl, .navbar-expand-lg > .container-xxxxl, .navbar-expand-lg > .container-xxxxxl, .navbar-expand-lg > .container-xxxxxxl {
+    .navbar-expand-lg > .container-fluid,
+    .navbar-expand-lg > .container-xxxs,
+    .navbar-expand-lg > .container-xxs,
+    .navbar-expand-lg > .container-xs,
+    .navbar-expand-lg > .container-sm,
+    .navbar-expand-lg > .container-md,
+    .navbar-expand-lg > .container-lg,
+    .navbar-expand-lg > .container-xl,
+    .navbar-expand-lg > .container-xxl,
+    .navbar-expand-lg > .container-xxxl,
+    .navbar-expand-lg > .container-xxxxl,
+    .navbar-expand-lg > .container-xxxxxl,
+    .navbar-expand-lg > .container-xxxxxxl {
       flex-wrap: nowrap; }
     .navbar-expand-lg .navbar-collapse {
       display: flex !important;
@@ -2310,7 +2440,19 @@ pre {
 
 @media (max-width: 1199.98px) {
   .navbar-expand-xl > .container,
-  .navbar-expand-xl > .container-fluid, .navbar-expand-xl > .container-xxxs, .navbar-expand-xl > .container-xxs, .navbar-expand-xl > .container-xs, .navbar-expand-xl > .container-sm, .navbar-expand-xl > .container-md, .navbar-expand-xl > .container-lg, .navbar-expand-xl > .container-xl, .navbar-expand-xl > .container-xxl, .navbar-expand-xl > .container-xxxl, .navbar-expand-xl > .container-xxxxl, .navbar-expand-xl > .container-xxxxxl, .navbar-expand-xl > .container-xxxxxxl {
+  .navbar-expand-xl > .container-fluid,
+  .navbar-expand-xl > .container-xxxs,
+  .navbar-expand-xl > .container-xxs,
+  .navbar-expand-xl > .container-xs,
+  .navbar-expand-xl > .container-sm,
+  .navbar-expand-xl > .container-md,
+  .navbar-expand-xl > .container-lg,
+  .navbar-expand-xl > .container-xl,
+  .navbar-expand-xl > .container-xxl,
+  .navbar-expand-xl > .container-xxxl,
+  .navbar-expand-xl > .container-xxxxl,
+  .navbar-expand-xl > .container-xxxxxl,
+  .navbar-expand-xl > .container-xxxxxxl {
     padding-right: 0;
     padding-left: 0; } }
 
@@ -2326,7 +2468,19 @@ pre {
         padding-right: 0.5rem;
         padding-left: 0.5rem; }
     .navbar-expand-xl > .container,
-    .navbar-expand-xl > .container-fluid, .navbar-expand-xl > .container-xxxs, .navbar-expand-xl > .container-xxs, .navbar-expand-xl > .container-xs, .navbar-expand-xl > .container-sm, .navbar-expand-xl > .container-md, .navbar-expand-xl > .container-lg, .navbar-expand-xl > .container-xl, .navbar-expand-xl > .container-xxl, .navbar-expand-xl > .container-xxxl, .navbar-expand-xl > .container-xxxxl, .navbar-expand-xl > .container-xxxxxl, .navbar-expand-xl > .container-xxxxxxl {
+    .navbar-expand-xl > .container-fluid,
+    .navbar-expand-xl > .container-xxxs,
+    .navbar-expand-xl > .container-xxs,
+    .navbar-expand-xl > .container-xs,
+    .navbar-expand-xl > .container-sm,
+    .navbar-expand-xl > .container-md,
+    .navbar-expand-xl > .container-lg,
+    .navbar-expand-xl > .container-xl,
+    .navbar-expand-xl > .container-xxl,
+    .navbar-expand-xl > .container-xxxl,
+    .navbar-expand-xl > .container-xxxxl,
+    .navbar-expand-xl > .container-xxxxxl,
+    .navbar-expand-xl > .container-xxxxxxl {
       flex-wrap: nowrap; }
     .navbar-expand-xl .navbar-collapse {
       display: flex !important;
@@ -2336,7 +2490,19 @@ pre {
 
 @media (max-width: 1439.98px) {
   .navbar-expand-xxl > .container,
-  .navbar-expand-xxl > .container-fluid, .navbar-expand-xxl > .container-xxxs, .navbar-expand-xxl > .container-xxs, .navbar-expand-xxl > .container-xs, .navbar-expand-xxl > .container-sm, .navbar-expand-xxl > .container-md, .navbar-expand-xxl > .container-lg, .navbar-expand-xxl > .container-xl, .navbar-expand-xxl > .container-xxl, .navbar-expand-xxl > .container-xxxl, .navbar-expand-xxl > .container-xxxxl, .navbar-expand-xxl > .container-xxxxxl, .navbar-expand-xxl > .container-xxxxxxl {
+  .navbar-expand-xxl > .container-fluid,
+  .navbar-expand-xxl > .container-xxxs,
+  .navbar-expand-xxl > .container-xxs,
+  .navbar-expand-xxl > .container-xs,
+  .navbar-expand-xxl > .container-sm,
+  .navbar-expand-xxl > .container-md,
+  .navbar-expand-xxl > .container-lg,
+  .navbar-expand-xxl > .container-xl,
+  .navbar-expand-xxl > .container-xxl,
+  .navbar-expand-xxl > .container-xxxl,
+  .navbar-expand-xxl > .container-xxxxl,
+  .navbar-expand-xxl > .container-xxxxxl,
+  .navbar-expand-xxl > .container-xxxxxxl {
     padding-right: 0;
     padding-left: 0; } }
 
@@ -2352,7 +2518,19 @@ pre {
         padding-right: 0.5rem;
         padding-left: 0.5rem; }
     .navbar-expand-xxl > .container,
-    .navbar-expand-xxl > .container-fluid, .navbar-expand-xxl > .container-xxxs, .navbar-expand-xxl > .container-xxs, .navbar-expand-xxl > .container-xs, .navbar-expand-xxl > .container-sm, .navbar-expand-xxl > .container-md, .navbar-expand-xxl > .container-lg, .navbar-expand-xxl > .container-xl, .navbar-expand-xxl > .container-xxl, .navbar-expand-xxl > .container-xxxl, .navbar-expand-xxl > .container-xxxxl, .navbar-expand-xxl > .container-xxxxxl, .navbar-expand-xxl > .container-xxxxxxl {
+    .navbar-expand-xxl > .container-fluid,
+    .navbar-expand-xxl > .container-xxxs,
+    .navbar-expand-xxl > .container-xxs,
+    .navbar-expand-xxl > .container-xs,
+    .navbar-expand-xxl > .container-sm,
+    .navbar-expand-xxl > .container-md,
+    .navbar-expand-xxl > .container-lg,
+    .navbar-expand-xxl > .container-xl,
+    .navbar-expand-xxl > .container-xxl,
+    .navbar-expand-xxl > .container-xxxl,
+    .navbar-expand-xxl > .container-xxxxl,
+    .navbar-expand-xxl > .container-xxxxxl,
+    .navbar-expand-xxl > .container-xxxxxxl {
       flex-wrap: nowrap; }
     .navbar-expand-xxl .navbar-collapse {
       display: flex !important;
@@ -2362,7 +2540,19 @@ pre {
 
 @media (max-width: 1599.98px) {
   .navbar-expand-xxxl > .container,
-  .navbar-expand-xxxl > .container-fluid, .navbar-expand-xxxl > .container-xxxs, .navbar-expand-xxxl > .container-xxs, .navbar-expand-xxxl > .container-xs, .navbar-expand-xxxl > .container-sm, .navbar-expand-xxxl > .container-md, .navbar-expand-xxxl > .container-lg, .navbar-expand-xxxl > .container-xl, .navbar-expand-xxxl > .container-xxl, .navbar-expand-xxxl > .container-xxxl, .navbar-expand-xxxl > .container-xxxxl, .navbar-expand-xxxl > .container-xxxxxl, .navbar-expand-xxxl > .container-xxxxxxl {
+  .navbar-expand-xxxl > .container-fluid,
+  .navbar-expand-xxxl > .container-xxxs,
+  .navbar-expand-xxxl > .container-xxs,
+  .navbar-expand-xxxl > .container-xs,
+  .navbar-expand-xxxl > .container-sm,
+  .navbar-expand-xxxl > .container-md,
+  .navbar-expand-xxxl > .container-lg,
+  .navbar-expand-xxxl > .container-xl,
+  .navbar-expand-xxxl > .container-xxl,
+  .navbar-expand-xxxl > .container-xxxl,
+  .navbar-expand-xxxl > .container-xxxxl,
+  .navbar-expand-xxxl > .container-xxxxxl,
+  .navbar-expand-xxxl > .container-xxxxxxl {
     padding-right: 0;
     padding-left: 0; } }
 
@@ -2378,7 +2568,19 @@ pre {
         padding-right: 0.5rem;
         padding-left: 0.5rem; }
     .navbar-expand-xxxl > .container,
-    .navbar-expand-xxxl > .container-fluid, .navbar-expand-xxxl > .container-xxxs, .navbar-expand-xxxl > .container-xxs, .navbar-expand-xxxl > .container-xs, .navbar-expand-xxxl > .container-sm, .navbar-expand-xxxl > .container-md, .navbar-expand-xxxl > .container-lg, .navbar-expand-xxxl > .container-xl, .navbar-expand-xxxl > .container-xxl, .navbar-expand-xxxl > .container-xxxl, .navbar-expand-xxxl > .container-xxxxl, .navbar-expand-xxxl > .container-xxxxxl, .navbar-expand-xxxl > .container-xxxxxxl {
+    .navbar-expand-xxxl > .container-fluid,
+    .navbar-expand-xxxl > .container-xxxs,
+    .navbar-expand-xxxl > .container-xxs,
+    .navbar-expand-xxxl > .container-xs,
+    .navbar-expand-xxxl > .container-sm,
+    .navbar-expand-xxxl > .container-md,
+    .navbar-expand-xxxl > .container-lg,
+    .navbar-expand-xxxl > .container-xl,
+    .navbar-expand-xxxl > .container-xxl,
+    .navbar-expand-xxxl > .container-xxxl,
+    .navbar-expand-xxxl > .container-xxxxl,
+    .navbar-expand-xxxl > .container-xxxxxl,
+    .navbar-expand-xxxl > .container-xxxxxxl {
       flex-wrap: nowrap; }
     .navbar-expand-xxxl .navbar-collapse {
       display: flex !important;
@@ -2388,7 +2590,19 @@ pre {
 
 @media (max-width: 1919.98px) {
   .navbar-expand-xxxxl > .container,
-  .navbar-expand-xxxxl > .container-fluid, .navbar-expand-xxxxl > .container-xxxs, .navbar-expand-xxxxl > .container-xxs, .navbar-expand-xxxxl > .container-xs, .navbar-expand-xxxxl > .container-sm, .navbar-expand-xxxxl > .container-md, .navbar-expand-xxxxl > .container-lg, .navbar-expand-xxxxl > .container-xl, .navbar-expand-xxxxl > .container-xxl, .navbar-expand-xxxxl > .container-xxxl, .navbar-expand-xxxxl > .container-xxxxl, .navbar-expand-xxxxl > .container-xxxxxl, .navbar-expand-xxxxl > .container-xxxxxxl {
+  .navbar-expand-xxxxl > .container-fluid,
+  .navbar-expand-xxxxl > .container-xxxs,
+  .navbar-expand-xxxxl > .container-xxs,
+  .navbar-expand-xxxxl > .container-xs,
+  .navbar-expand-xxxxl > .container-sm,
+  .navbar-expand-xxxxl > .container-md,
+  .navbar-expand-xxxxl > .container-lg,
+  .navbar-expand-xxxxl > .container-xl,
+  .navbar-expand-xxxxl > .container-xxl,
+  .navbar-expand-xxxxl > .container-xxxl,
+  .navbar-expand-xxxxl > .container-xxxxl,
+  .navbar-expand-xxxxl > .container-xxxxxl,
+  .navbar-expand-xxxxl > .container-xxxxxxl {
     padding-right: 0;
     padding-left: 0; } }
 
@@ -2404,7 +2618,19 @@ pre {
         padding-right: 0.5rem;
         padding-left: 0.5rem; }
     .navbar-expand-xxxxl > .container,
-    .navbar-expand-xxxxl > .container-fluid, .navbar-expand-xxxxl > .container-xxxs, .navbar-expand-xxxxl > .container-xxs, .navbar-expand-xxxxl > .container-xs, .navbar-expand-xxxxl > .container-sm, .navbar-expand-xxxxl > .container-md, .navbar-expand-xxxxl > .container-lg, .navbar-expand-xxxxl > .container-xl, .navbar-expand-xxxxl > .container-xxl, .navbar-expand-xxxxl > .container-xxxl, .navbar-expand-xxxxl > .container-xxxxl, .navbar-expand-xxxxl > .container-xxxxxl, .navbar-expand-xxxxl > .container-xxxxxxl {
+    .navbar-expand-xxxxl > .container-fluid,
+    .navbar-expand-xxxxl > .container-xxxs,
+    .navbar-expand-xxxxl > .container-xxs,
+    .navbar-expand-xxxxl > .container-xs,
+    .navbar-expand-xxxxl > .container-sm,
+    .navbar-expand-xxxxl > .container-md,
+    .navbar-expand-xxxxl > .container-lg,
+    .navbar-expand-xxxxl > .container-xl,
+    .navbar-expand-xxxxl > .container-xxl,
+    .navbar-expand-xxxxl > .container-xxxl,
+    .navbar-expand-xxxxl > .container-xxxxl,
+    .navbar-expand-xxxxl > .container-xxxxxl,
+    .navbar-expand-xxxxl > .container-xxxxxxl {
       flex-wrap: nowrap; }
     .navbar-expand-xxxxl .navbar-collapse {
       display: flex !important;
@@ -2414,7 +2640,19 @@ pre {
 
 @media (max-width: 2159.98px) {
   .navbar-expand-xxxxxl > .container,
-  .navbar-expand-xxxxxl > .container-fluid, .navbar-expand-xxxxxl > .container-xxxs, .navbar-expand-xxxxxl > .container-xxs, .navbar-expand-xxxxxl > .container-xs, .navbar-expand-xxxxxl > .container-sm, .navbar-expand-xxxxxl > .container-md, .navbar-expand-xxxxxl > .container-lg, .navbar-expand-xxxxxl > .container-xl, .navbar-expand-xxxxxl > .container-xxl, .navbar-expand-xxxxxl > .container-xxxl, .navbar-expand-xxxxxl > .container-xxxxl, .navbar-expand-xxxxxl > .container-xxxxxl, .navbar-expand-xxxxxl > .container-xxxxxxl {
+  .navbar-expand-xxxxxl > .container-fluid,
+  .navbar-expand-xxxxxl > .container-xxxs,
+  .navbar-expand-xxxxxl > .container-xxs,
+  .navbar-expand-xxxxxl > .container-xs,
+  .navbar-expand-xxxxxl > .container-sm,
+  .navbar-expand-xxxxxl > .container-md,
+  .navbar-expand-xxxxxl > .container-lg,
+  .navbar-expand-xxxxxl > .container-xl,
+  .navbar-expand-xxxxxl > .container-xxl,
+  .navbar-expand-xxxxxl > .container-xxxl,
+  .navbar-expand-xxxxxl > .container-xxxxl,
+  .navbar-expand-xxxxxl > .container-xxxxxl,
+  .navbar-expand-xxxxxl > .container-xxxxxxl {
     padding-right: 0;
     padding-left: 0; } }
 
@@ -2430,7 +2668,19 @@ pre {
         padding-right: 0.5rem;
         padding-left: 0.5rem; }
     .navbar-expand-xxxxxl > .container,
-    .navbar-expand-xxxxxl > .container-fluid, .navbar-expand-xxxxxl > .container-xxxs, .navbar-expand-xxxxxl > .container-xxs, .navbar-expand-xxxxxl > .container-xs, .navbar-expand-xxxxxl > .container-sm, .navbar-expand-xxxxxl > .container-md, .navbar-expand-xxxxxl > .container-lg, .navbar-expand-xxxxxl > .container-xl, .navbar-expand-xxxxxl > .container-xxl, .navbar-expand-xxxxxl > .container-xxxl, .navbar-expand-xxxxxl > .container-xxxxl, .navbar-expand-xxxxxl > .container-xxxxxl, .navbar-expand-xxxxxl > .container-xxxxxxl {
+    .navbar-expand-xxxxxl > .container-fluid,
+    .navbar-expand-xxxxxl > .container-xxxs,
+    .navbar-expand-xxxxxl > .container-xxs,
+    .navbar-expand-xxxxxl > .container-xs,
+    .navbar-expand-xxxxxl > .container-sm,
+    .navbar-expand-xxxxxl > .container-md,
+    .navbar-expand-xxxxxl > .container-lg,
+    .navbar-expand-xxxxxl > .container-xl,
+    .navbar-expand-xxxxxl > .container-xxl,
+    .navbar-expand-xxxxxl > .container-xxxl,
+    .navbar-expand-xxxxxl > .container-xxxxl,
+    .navbar-expand-xxxxxl > .container-xxxxxl,
+    .navbar-expand-xxxxxl > .container-xxxxxxl {
       flex-wrap: nowrap; }
     .navbar-expand-xxxxxl .navbar-collapse {
       display: flex !important;
@@ -2440,7 +2690,19 @@ pre {
 
 @media (max-width: 3839.98px) {
   .navbar-expand-xxxxxxl > .container,
-  .navbar-expand-xxxxxxl > .container-fluid, .navbar-expand-xxxxxxl > .container-xxxs, .navbar-expand-xxxxxxl > .container-xxs, .navbar-expand-xxxxxxl > .container-xs, .navbar-expand-xxxxxxl > .container-sm, .navbar-expand-xxxxxxl > .container-md, .navbar-expand-xxxxxxl > .container-lg, .navbar-expand-xxxxxxl > .container-xl, .navbar-expand-xxxxxxl > .container-xxl, .navbar-expand-xxxxxxl > .container-xxxl, .navbar-expand-xxxxxxl > .container-xxxxl, .navbar-expand-xxxxxxl > .container-xxxxxl, .navbar-expand-xxxxxxl > .container-xxxxxxl {
+  .navbar-expand-xxxxxxl > .container-fluid,
+  .navbar-expand-xxxxxxl > .container-xxxs,
+  .navbar-expand-xxxxxxl > .container-xxs,
+  .navbar-expand-xxxxxxl > .container-xs,
+  .navbar-expand-xxxxxxl > .container-sm,
+  .navbar-expand-xxxxxxl > .container-md,
+  .navbar-expand-xxxxxxl > .container-lg,
+  .navbar-expand-xxxxxxl > .container-xl,
+  .navbar-expand-xxxxxxl > .container-xxl,
+  .navbar-expand-xxxxxxl > .container-xxxl,
+  .navbar-expand-xxxxxxl > .container-xxxxl,
+  .navbar-expand-xxxxxxl > .container-xxxxxl,
+  .navbar-expand-xxxxxxl > .container-xxxxxxl {
     padding-right: 0;
     padding-left: 0; } }
 
@@ -2456,7 +2718,19 @@ pre {
         padding-right: 0.5rem;
         padding-left: 0.5rem; }
     .navbar-expand-xxxxxxl > .container,
-    .navbar-expand-xxxxxxl > .container-fluid, .navbar-expand-xxxxxxl > .container-xxxs, .navbar-expand-xxxxxxl > .container-xxs, .navbar-expand-xxxxxxl > .container-xs, .navbar-expand-xxxxxxl > .container-sm, .navbar-expand-xxxxxxl > .container-md, .navbar-expand-xxxxxxl > .container-lg, .navbar-expand-xxxxxxl > .container-xl, .navbar-expand-xxxxxxl > .container-xxl, .navbar-expand-xxxxxxl > .container-xxxl, .navbar-expand-xxxxxxl > .container-xxxxl, .navbar-expand-xxxxxxl > .container-xxxxxl, .navbar-expand-xxxxxxl > .container-xxxxxxl {
+    .navbar-expand-xxxxxxl > .container-fluid,
+    .navbar-expand-xxxxxxl > .container-xxxs,
+    .navbar-expand-xxxxxxl > .container-xxs,
+    .navbar-expand-xxxxxxl > .container-xs,
+    .navbar-expand-xxxxxxl > .container-sm,
+    .navbar-expand-xxxxxxl > .container-md,
+    .navbar-expand-xxxxxxl > .container-lg,
+    .navbar-expand-xxxxxxl > .container-xl,
+    .navbar-expand-xxxxxxl > .container-xxl,
+    .navbar-expand-xxxxxxl > .container-xxxl,
+    .navbar-expand-xxxxxxl > .container-xxxxl,
+    .navbar-expand-xxxxxxl > .container-xxxxxl,
+    .navbar-expand-xxxxxxl > .container-xxxxxxl {
       flex-wrap: nowrap; }
     .navbar-expand-xxxxxxl .navbar-collapse {
       display: flex !important;
@@ -2468,7 +2742,19 @@ pre {
   flex-flow: row nowrap;
   justify-content: flex-start; }
   .navbar-expand > .container,
-  .navbar-expand > .container-fluid, .navbar-expand > .container-xxxs, .navbar-expand > .container-xxs, .navbar-expand > .container-xs, .navbar-expand > .container-sm, .navbar-expand > .container-md, .navbar-expand > .container-lg, .navbar-expand > .container-xl, .navbar-expand > .container-xxl, .navbar-expand > .container-xxxl, .navbar-expand > .container-xxxxl, .navbar-expand > .container-xxxxxl, .navbar-expand > .container-xxxxxxl {
+  .navbar-expand > .container-fluid,
+  .navbar-expand > .container-xxxs,
+  .navbar-expand > .container-xxs,
+  .navbar-expand > .container-xs,
+  .navbar-expand > .container-sm,
+  .navbar-expand > .container-md,
+  .navbar-expand > .container-lg,
+  .navbar-expand > .container-xl,
+  .navbar-expand > .container-xxl,
+  .navbar-expand > .container-xxxl,
+  .navbar-expand > .container-xxxxl,
+  .navbar-expand > .container-xxxxxl,
+  .navbar-expand > .container-xxxxxxl {
     padding-right: 0;
     padding-left: 0; }
   .navbar-expand .navbar-nav {
@@ -2479,7 +2765,19 @@ pre {
       padding-right: 0.5rem;
       padding-left: 0.5rem; }
   .navbar-expand > .container,
-  .navbar-expand > .container-fluid, .navbar-expand > .container-xxxs, .navbar-expand > .container-xxs, .navbar-expand > .container-xs, .navbar-expand > .container-sm, .navbar-expand > .container-md, .navbar-expand > .container-lg, .navbar-expand > .container-xl, .navbar-expand > .container-xxl, .navbar-expand > .container-xxxl, .navbar-expand > .container-xxxxl, .navbar-expand > .container-xxxxxl, .navbar-expand > .container-xxxxxxl {
+  .navbar-expand > .container-fluid,
+  .navbar-expand > .container-xxxs,
+  .navbar-expand > .container-xxs,
+  .navbar-expand > .container-xs,
+  .navbar-expand > .container-sm,
+  .navbar-expand > .container-md,
+  .navbar-expand > .container-lg,
+  .navbar-expand > .container-xl,
+  .navbar-expand > .container-xxl,
+  .navbar-expand > .container-xxxl,
+  .navbar-expand > .container-xxxxl,
+  .navbar-expand > .container-xxxxxl,
+  .navbar-expand > .container-xxxxxxl {
     flex-wrap: nowrap; }
   .navbar-expand .navbar-collapse {
     display: flex !important;
@@ -2775,7 +3073,6 @@ pre {
   @media (prefers-reduced-motion: reduce) {
     .carousel-item {
       transition: none; } }
-
 .carousel-item.active,
 .carousel-item-next,
 .carousel-item-prev {
@@ -2809,7 +3106,6 @@ pre {
     .carousel-fade .active.carousel-item-left,
     .carousel-fade .active.carousel-item-right {
       transition: none; } }
-
 .carousel-control-prev,
 .carousel-control-next {
   position: absolute;
