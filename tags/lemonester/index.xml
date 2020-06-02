@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lemonester on BioSim</title>
+    <link>https://bio-sim.ro/tags/lemonester/</link>
+    <description>Recent content in lemonester on BioSim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro</language>
+    <lastBuildDate>Sun, 03 Nov 2019 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bio-sim.ro/tags/lemonester/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deo roll-on cu geranium și salvie</title>
+      <link>https://bio-sim.ro/products/deodorant/deo_roll_on_cu_geranium_si_salvie/</link>
+      <pubDate>Sun, 03 Nov 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://bio-sim.ro/products/deodorant/deo_roll_on_cu_geranium_si_salvie/</guid>
+      <description>&lt;p&gt;Deodorantul neutralizează eficient mirosurile neplăcute cauzate de descompunerea bacteriană a substanțelor prezente în compoziția transpirației.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
