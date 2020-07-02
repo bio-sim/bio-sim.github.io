@@ -11613,3 +11613,18 @@ body {
     left: 0;
     min-width: 100%;
     height: 500px; }
+
+.bs-tooltip-top .arrow::before,
+.bs-tooltip-auto[x-placement^="top"] .arrow::before {
+  border-top-color: #fff !important; }
+
+.tooltip-inner {
+  background-color: #fff !important;
+  color: #000 !important; }
+
+#cookie-bar {
+  background: #276d0e !important; }
+
+#cookie-bar-prompt-button {
+  color: #fff !important;
+  text-decoration: underline !important; }

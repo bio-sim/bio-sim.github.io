@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://bio-sim.ro/</loc>
+    <lastmod>2020-02-03T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bio-sim.ro/tags/bisabolol/</loc>
     <lastmod>2020-02-03T10:00:00+00:00</lastmod>
   </url>
@@ -74,11 +79,6 @@
   
   <url>
     <loc>https://bio-sim.ro/tags/</loc>
-    <lastmod>2020-02-03T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bio-sim.ro/tags/ulei_de_cocos/</loc>
     <lastmod>2020-02-03T10:00:00+00:00</lastmod>
   </url>
   
@@ -193,12 +193,12 @@
   </url>
   
   <url>
-    <loc>https://bio-sim.ro/tags/ulei_de_sofranel/</loc>
+    <loc>https://bio-sim.ro/tags/ulei_de_cocos/</loc>
     <lastmod>2020-01-11T17:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bio-sim.ro/tags/ulei_esential_de_portocale/</loc>
+    <loc>https://bio-sim.ro/tags/ulei_de_sofranel/</loc>
     <lastmod>2020-01-11T17:00:00+00:00</lastmod>
   </url>
   
@@ -468,11 +468,6 @@
   </url>
   
   <url>
-    <loc>https://bio-sim.ro/tags/sare_de_mare/</loc>
-    <lastmod>2019-11-04T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bio-sim.ro/tags/sare_de_mare_fina_neiodata/</loc>
     <lastmod>2019-11-04T10:00:00+00:00</lastmod>
   </url>
@@ -554,11 +549,6 @@
   
   <url>
     <loc>https://bio-sim.ro/tags/bicarbonat_de_na/</loc>
-    <lastmod>2019-11-03T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bio-sim.ro/</loc>
     <lastmod>2019-11-03T10:00:00+00:00</lastmod>
   </url>
   
@@ -728,6 +718,11 @@
   </url>
   
   <url>
+    <loc>https://bio-sim.ro/tags/sare_de_mare/</loc>
+    <lastmod>2019-11-03T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bio-sim.ro/tags/sare_epsom/</loc>
     <lastmod>2019-11-03T10:00:00+00:00</lastmod>
   </url>
@@ -844,6 +839,11 @@
   
   <url>
     <loc>https://bio-sim.ro/tags/ulei_esential_de_ienupar/</loc>
+    <lastmod>2019-11-03T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bio-sim.ro/tags/ulei_esential_de_portocale/</loc>
     <lastmod>2019-11-03T10:00:00+00:00</lastmod>
   </url>
   
