@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BioSim</title>
+    <link>https://bio-sim.ro/products/lips/</link>
+    <description>Recent content on BioSim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro</language>
+    <lastBuildDate>Wed, 01 Jan 2020 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bio-sim.ro/products/lips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Balsam de buze cu cătină</title>
+      <link>https://bio-sim.ro/products/lips/balsam_de_buze_cu_catina/</link>
+      <pubDate>Wed, 01 Jan 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://bio-sim.ro/products/lips/balsam_de_buze_cu_catina/</guid>
+      <description>&lt;p&gt;Un balsam de buze cu ingrediente puternic hidratante și protectoare, potrivit pentru protecția buzelor atât în perioadele reci cât și cele calde ale anului.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Balsam-ruj de buze protector</title>
+      <link>https://bio-sim.ro/products/lips/balsam_de_buze_protector_rosu/</link>
+      <pubDate>Sun, 03 Nov 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://bio-sim.ro/products/lips/balsam_de_buze_protector_rosu/</guid>
+      <description>&lt;p&gt;Este un balsam-ruj de buze cu o nuanță roz-roșie pe buze, cu o consistență satinată, plăcută, fără însă a avea acoperirea specifică dată de rujuri.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
