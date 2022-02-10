@@ -5,10 +5,6 @@
     <link>https://bio-sim.ro/categories/</link>
     <description>Recent content in Categories on BioSim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ro</language>
-    
-	<atom:link href="https://bio-sim.ro/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ro</language><atom:link href="https://bio-sim.ro/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
