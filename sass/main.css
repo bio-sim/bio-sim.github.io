@@ -11149,6 +11149,17 @@ body {
   100% {
     transform: scaleX(1) translate(-70px, 20vh); } }
 
+.sun {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 256px;
+  height: 256px;
+  background-image: url(/images/background/sun.png);
+  background-position: top left;
+  background-repeat: no-repeat;
+  z-index: -4; }
+
 .grass {
   position: fixed;
   bottom: 0;
