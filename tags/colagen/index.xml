@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>colagen on BioSim</title>
+    <title>Colagen on BioSim</title>
     <link>https://bio-sim.ro/tags/colagen/</link>
-    <description>Recent content in colagen on BioSim</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Colagen on BioSim</description>
+    <generator>Hugo</generator>
     <language>ro</language>
     <lastBuildDate>Sun, 12 Jan 2020 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://bio-sim.ro/tags/colagen/index.xml" rel="self" type="application/rss+xml" />

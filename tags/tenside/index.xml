@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tenside on BioSim</title>
+    <title>Tenside on BioSim</title>
     <link>https://bio-sim.ro/tags/tenside/</link>
-    <description>Recent content in tenside on BioSim</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Tenside on BioSim</description>
+    <generator>Hugo</generator>
     <language>ro</language>
     <lastBuildDate>Fri, 29 Jan 2021 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://bio-sim.ro/tags/tenside/index.xml" rel="self" type="application/rss+xml" />
